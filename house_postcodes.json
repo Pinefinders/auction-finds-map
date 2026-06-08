@@ -1,0 +1,3476 @@
+{
+  "_comment": "Auction house -> postcode lookup. Sourced from Ken's auction-map repo (ALL_HOUSES). Keys must match the 'house' field as scraped by EasyLive. Houses not in Ken's UK-focused list are kept from manual additions below.",
+  "1888 Auctioneers": {
+    "postcode": "B33 0SG",
+    "address": "Office 50 511 Garretts Green Lane, Birmingham B33 0SG",
+    "lat": 52.476446,
+    "lng": -1.779489,
+    "url": "https://www.easyliveauction.com/auctioneers/1888auctioneers/"
+  },
+  "A & C Auctions of Pendle": {
+    "postcode": "BB8 8EG",
+    "address": "G5 Holker Business Centre, Colne, Lancashire BB8 8EG",
+    "lat": 53.852033,
+    "lng": -2.186562,
+    "url": "https://www.easyliveauction.com/auctioneers/aandcauctions/"
+  },
+  "A 1 Collectables Antiques Auctions": {
+    "postcode": "LL53 5RR",
+    "address": "76 High Street, Pwllheli, Gwynedd LL53 5RR",
+    "lat": 52.889662,
+    "lng": -4.417788,
+    "url": "https://www.easyliveauction.com/auctioneers/a1collectablesantiquesauctions/"
+  },
+  "A.S.H. Auctions (ASH)": {
+    "postcode": "ST6 3HP",
+    "address": "Cobridge Hall, Grange Street, Stoke on Trent ST6 3HP",
+    "lat": 53.035977,
+    "lng": -2.188143,
+    "url": "https://www.easyliveauction.com/auctioneers/ashauctions/"
+  },
+  "A7 Waverley Auctions Ltd": {
+    "postcode": "TD1 1BT",
+    "address": "Ladhope Vale House, Galashiels TD1 1BT",
+    "lat": 55.618632,
+    "lng": -2.808895,
+    "url": "https://www.easyliveauction.com/auctioneers/a7waverleyauctions/"
+  },
+  "Abbey Auction Rooms Ltd": {
+    "postcode": "ME7 4DH",
+    "address": "5-7 Livingstone Buildings, Gillingham, Kent ME7 4DH",
+    "lat": 51.384095,
+    "lng": 0.556238,
+    "url": "https://www.easyliveauction.com/auctioneers/abbeyauctionrooms/"
+  },
+  "ABC Auction": {
+    "postcode": "BT61 7AD",
+    "address": "24 Linenhall Street, Armagh BT61 7AD",
+    "lat": 54.346376,
+    "lng": -6.652472,
+    "url": "https://www.easyliveauction.com/auctioneers/abcauctions/"
+  },
+  "Acanthus Auctions Ltd": {
+    "postcode": "SP3 6JB",
+    "address": "The Chapel Tuckingmill, Tisbury, Wiltshire SP3 6JB",
+    "lat": 51.06289,
+    "lng": -2.086206,
+    "url": "https://www.easyliveauction.com/auctioneers/acanthusauctions/"
+  },
+  "Acorn Internet Auction": {
+    "postcode": "CM21 9JX",
+    "address": "Allen House, Sawbridgeworth, Hertfordshire CM21 9JX",
+    "lat": 51.812226,
+    "lng": 0.159248,
+    "url": "https://www.easyliveauction.com/auctioneers/acornauctions/"
+  },
+  "Acreman St. Antiques Auction": {
+    "postcode": "DT93PH",
+    "address": "121 Acreman Street, Sherborne, Dorset",
+    "lat": 50.948626,
+    "lng": -2.521367,
+    "url": "https://www.easyliveauction.com/auctioneers/acremanstantiques/"
+  },
+  "AJ Auctions Fife Ltd": {
+    "postcode": "KY4 8HG",
+    "address": "Woodend Business Centre, Cowdenbeath, Fife KY4 8HG",
+    "lat": 56.098197,
+    "lng": -3.360047,
+    "url": "https://www.easyliveauction.com/auctioneers/ajauctionsfife/"
+  },
+  "Alliance Auctions": {
+    "postcode": "CM23 9JW",
+    "address": "Little Hallingbury, Bishops Storford CM23 9JW",
+    "lat": 51.866763,
+    "lng": 0.160362,
+    "url": "https://www.easyliveauction.com/auctioneers/allianceauctions/"
+  },
+  "Alnwick Auctions": {
+    "postcode": "NE66 2NP",
+    "address": "Station Yard, Wagonway Road, Alnwick NE66 2NP",
+    "lat": 55.409796,
+    "lng": -1.699229,
+    "url": "https://www.easyliveauction.com/auctioneers/alnwickauctions/"
+  },
+  "Altona Auctions - L S Henry Limited": {
+    "postcode": "BT28 1RW",
+    "address": "Rosevale Industrial Estate, Lisburn BT28 1RW",
+    "lat": 54.506305,
+    "lng": -6.076325,
+    "url": "https://www.easyliveauction.com/auctioneers/altonaauctions/"
+  },
+  "Amersham Auction Rooms": {
+    "postcode": "HP7 0AH",
+    "address": "125 Station Road, Amersham HP7 0AH",
+    "lat": 51.673189,
+    "lng": -0.608053,
+    "url": "https://www.easyliveauction.com/auctioneers/amershamauctionrooms/"
+  },
+  "AMW Auctions": {
+    "postcode": "SP11 0QH",
+    "address": "The Fairground, Weyhill, Andover SP11 0QH",
+    "lat": 51.219594,
+    "lng": -1.550539,
+    "url": "https://www.easyliveauction.com/auctioneers/andovermarlboroughwinchesterauctions/"
+  },
+  "Andrew Smith & Son": {
+    "postcode": "SO24 0QT",
+    "address": "Manor Farm, Itchen Stoke, Alresford SO24 0QT",
+    "lat": 51.089524,
+    "lng": -1.196577,
+    "url": "https://www.easyliveauction.com/auctioneers/andrewsmithandson/"
+  },
+  "Antikbar Original Vintage Posters": {
+    "postcode": "SW10 0LJ",
+    "address": "404 King's Road, Chelsea, London SW10 0LJ",
+    "lat": 51.48338,
+    "lng": -0.177351,
+    "url": "https://www.easyliveauction.com/auctioneers/antikbar/"
+  },
+  "Antique 491": {
+    "postcode": "BH1 4AE",
+    "address": "491 Christchurch Road, Bournemouth BH1 4AE",
+    "lat": 50.72523,
+    "lng": -1.843916,
+    "url": "https://www.easyliveauction.com/auctioneers/antique91/"
+  },
+  "Antique Finds": {
+    "postcode": "SG8 5QL",
+    "address": "Town Green Road, Orwell, Royston SG8 5QL",
+    "lat": 52.133929,
+    "lng": -0.012598,
+    "url": "https://www.easyliveauction.com/auctioneers/antiquefinds/"
+  },
+  "Arete Art": {
+    "postcode": "CO2 8JX",
+    "address": "Hawkins Road, Colchester CO2 8JX",
+    "lat": 51.883811,
+    "lng": 0.927336,
+    "url": "https://www.easyliveauction.com/auctioneers/areteart/"
+  },
+  "Argents Auctioneers Ltd": {
+    "postcode": "PO9 2NP",
+    "address": "The Oakwood Centre, Havant PO9 2NP",
+    "lat": 50.862001,
+    "lng": -0.967691,
+    "url": "https://www.easyliveauction.com/auctioneers/argentsauctioneers/"
+  },
+  "Argyll Etkin Limited": {
+    "postcode": "W1D 6PA",
+    "address": "1 Wardour Street, London W1D 6PA",
+    "lat": 51.510604,
+    "lng": -0.131848,
+    "url": "https://www.easyliveauction.com/auctioneers/argylletkin/"
+  },
+  "Arthur Johnson & Sons": {
+    "postcode": "NG2 3GY",
+    "address": "The Nottingham Auction Centre, Meadow Lane NG2 3GY",
+    "lat": 52.944036,
+    "lng": -1.136319,
+    "url": "https://www.easyliveauction.com/auctioneers/arthurjohnson/"
+  },
+  "Ashley Waller Ltd": {
+    "postcode": "SK11 9DU",
+    "address": "Four Oaks, Lower Withington, Cheshire SK11 9DU",
+    "lat": 53.229718,
+    "lng": -2.297207,
+    "url": "https://www.easyliveauction.com/auctioneers/ashleywaller/"
+  },
+  "Atkins Auctions Ltd": {
+    "postcode": "EX13 5JZ",
+    "address": "Gamberlake, Axminster, Devon EX13 5JZ",
+    "lat": 50.775745,
+    "lng": -3.004442,
+    "url": "https://www.easyliveauction.com/auctioneers/atkinsauctions/"
+  },
+  "Aubreys": {
+    "postcode": "GU3 1HS",
+    "address": "18 Loseley Park, Guildford, Surrey GU3 1HS",
+    "lat": 51.214986,
+    "lng": -0.602744,
+    "url": "https://www.easyliveauction.com/auctioneers/aubreysauctioneers/"
+  },
+  "Auction Cash": {
+    "postcode": "WA9 3AG",
+    "address": "Station Road Industrial Estate, Sutton, St Helens WA9 3AG",
+    "lat": 53.445834,
+    "lng": -2.698048,
+    "url": "https://www.easyliveauction.com/auctioneers/auctioncash/"
+  },
+  "Auction Keynes": {
+    "postcode": "MK17 0EF",
+    "address": "Elm Farm, Stratford Road, Milton Keynes MK17 0EF",
+    "lat": 52.008698,
+    "lng": -0.865508,
+    "url": "https://www.easyliveauction.com/auctioneers/auctionkeynes/"
+  },
+  "Auction Plus": {
+    "postcode": "CV10 0LB",
+    "address": "40 Berrington Road, Nuneaton CV10 0LB",
+    "lat": 52.537898,
+    "lng": -1.506483,
+    "url": "https://www.easyliveauction.com/auctioneers/auction-plus/"
+  },
+  "Auction247": {
+    "postcode": "EC1V 2NX",
+    "address": "124 City Road, London EC1V 2NX",
+    "lat": 51.527304,
+    "lng": -0.088894,
+    "url": "https://www.easyliveauction.com/auctioneers/Auction247/"
+  },
+  "Auctioneum Ltd": {
+    "postcode": "BS15 3JE",
+    "address": "Hanham Business Park, Bristol BS15 3JE",
+    "lat": 51.446022,
+    "lng": -2.523762,
+    "url": "https://www.easyliveauction.com/auctioneers/eastbristolauctions/"
+  },
+  "Auctions @ Number 1": {
+    "postcode": "PO12 1BX",
+    "address": "1 High Street, Gosport PO12 1BX",
+    "lat": 50.795372,
+    "lng": -1.123863,
+    "url": "https://www.easyliveauction.com/auctioneers/auctionsatnumber1/"
+  },
+  "Auctions NI Lurgan": {
+    "postcode": "BT67 9JD",
+    "address": "Annesborough Ind Est, Lurgan BT67 9JD",
+    "lat": 54.483288,
+    "lng": -6.349897,
+    "url": "https://www.easyliveauction.com/auctioneers/auctionsni/"
+  },
+  "B Frank & Son": {
+    "postcode": "NE40 3LD",
+    "address": "3 South Avenue, Ryton NE40 3LD",
+    "lat": 54.971938,
+    "lng": -1.761398,
+    "url": "https://www.easyliveauction.com/auctioneers/bfrankandson/"
+  },
+  "Bamfords Auctioneers & Valuers": {
+    "postcode": "DE21 7NL",
+    "address": "The Derby Auction House, 46 Nottingham Road, Spondon DE21 7NL",
+    "lat": 52.913644,
+    "lng": -1.406818,
+    "url": "https://www.easyliveauction.com/auctioneers/bamfords/"
+  },
+  "Bank Hall Auctions": {
+    "postcode": "BB10 2HX",
+    "address": "Kings Mill, Queen St, Harle Syke, Burnley BB10 2HX",
+    "lat": 53.81072,
+    "lng": -2.200789,
+    "url": "https://www.easyliveauction.com/auctioneers/bankhallauctions/"
+  },
+  "Batemans of Stamford": {
+    "postcode": "PE9 1XF",
+    "address": "The Saleroom, Ryhall Road, Stamford PE9 1XF",
+    "lat": 52.661836,
+    "lng": -0.465956,
+    "url": "https://www.easyliveauction.com/auctioneers/batemans/"
+  },
+  "BBR Auctions": {
+    "postcode": "S74 8HJ",
+    "address": "Elsecar Heritage Centre, Barnsley S74 8HJ",
+    "lat": 53.494597,
+    "lng": -1.420365,
+    "url": "https://www.easyliveauction.com/auctioneers/bbrauctions/"
+  },
+  "Bearnes Hampton & Littlewood": {
+    "postcode": "EX4 1DU",
+    "address": "St Edmund's Court, Okehampton Street, Exeter EX4 1DU",
+    "lat": 50.717987,
+    "lng": -3.539077,
+    "url": "https://www.easyliveauction.com/auctioneers/bearneshamptonandlittlewood/"
+  },
+  "Beccles Auctions": {
+    "postcode": "NR34 7TD",
+    "address": "Ellough Industrial Estate, Beccles NR34 7TD",
+    "lat": 52.439485,
+    "lng": 1.598592,
+    "url": "https://www.easyliveauction.com/auctioneers/becclesauctions/"
+  },
+  "Beeston Auction House": {
+    "postcode": "PE32 2NQ",
+    "address": "Paynes Business Park, Beeston, Norfolk PE32 2NQ",
+    "lat": 52.704136,
+    "lng": 0.8259,
+    "url": "https://www.easyliveauction.com/auctioneers/beestonauctionhouse/"
+  },
+  "Belfast Auctions": {
+    "postcode": "BT3 9BW",
+    "address": "6 Duncrue Crescent, Belfast BT3 9BW",
+    "lat": 54.627565,
+    "lng": -5.916798,
+    "url": "https://www.easyliveauction.com/auctioneers/belfastauctions/"
+  },
+  "Belmont Auctions": {
+    "postcode": "NW10 7NH",
+    "address": "184 Acton Lane, Park Royal, London NW10 7NH",
+    "lat": 51.533014,
+    "lng": -0.263003,
+    "url": "https://www.easyliveauction.com/auctioneers/belmontauctions/"
+  },
+  "Bennett & Dykes Ltd": {
+    "postcode": "W8 4BN",
+    "address": "50-60 Kensington Church Street, London W8 4BN",
+    "lat": 51.507791,
+    "lng": -0.194577,
+    "url": "https://www.easyliveauction.com/auctioneers/bennettdykes/"
+  },
+  "Bentley's Fine Art Auctioneers": {
+    "postcode": "TN17 3JQ",
+    "address": "The Old Granary, Waterloo Road, Cranbrook TN17 3JQ",
+    "lat": 51.096788,
+    "lng": 0.538871,
+    "url": "https://www.easyliveauction.com/auctioneers/bentleysfineartauctioneers/"
+  },
+  "Best Model Toys": {
+    "postcode": "RH12 2NW",
+    "address": "Griffin House, Nightingale Road, Horsham RH12 2NW",
+    "lat": 51.068198,
+    "lng": -0.319779,
+    "url": "https://www.easyliveauction.com/auctioneers/bestmodeltoys/"
+  },
+  "Blenheim Auctions Ltd": {
+    "postcode": "EC1V 2NX",
+    "address": "124 City Road, London EC1V 2NX",
+    "lat": 51.527304,
+    "lng": -0.088894,
+    "url": "https://www.easyliveauction.com/auctioneers/blenheimauctions/"
+  },
+  "Boldon Auction Galleries": {
+    "postcode": "NE36 0SJ",
+    "address": "24a Front Street, East Boldon NE36 0SJ",
+    "lat": 54.945169,
+    "lng": -1.432959,
+    "url": "https://www.easyliveauction.com/auctioneers/boldonauctiongalleries/"
+  },
+  "Bosleys Military Auctions": {
+    "postcode": "SL7 2BS",
+    "address": "The Old Royal Military College, Marlow SL7 2BS",
+    "lat": 51.569994,
+    "lng": -0.781619,
+    "url": "https://www.easyliveauction.com/auctioneers/bosleysmilitaryauctioneers/"
+  },
+  "Bourne End Auction Rooms Ltd": {
+    "postcode": "SL8 5QH",
+    "address": "Station Approach, Bourne End SL8 5QH",
+    "lat": 51.57749,
+    "lng": -0.71066,
+    "url": "https://www.easyliveauction.com/auctioneers/bourneendauctionrooms/"
+  },
+  "Bowler & Binnie Ltd": {
+    "postcode": "KY11 4JT",
+    "address": "Carnegie House, Lynburn Industrial Estate, Dunfermline KY11 4JT",
+    "lat": 56.076446,
+    "lng": -3.423595,
+    "url": "https://www.easyliveauction.com/auctioneers/bowlerandbinnie/"
+  },
+  "Braintree and Bocking Auctions": {
+    "postcode": "CM7 9AE",
+    "address": "15 Bocking End, Braintree CM7 9AE",
+    "lat": 51.880937,
+    "lng": 0.551812,
+    "url": "https://www.easyliveauction.com/auctioneers/braintreeandbockingauctions/"
+  },
+  "Brettells Auctioneers & Valuers": {
+    "postcode": "TF10 7AQ",
+    "address": "Rear of 58 High Street, Newport, Shropshire TF10 7AQ",
+    "lat": 52.768225,
+    "lng": -2.377511,
+    "url": "https://www.easyliveauction.com/auctioneers/brettells/"
+  },
+  "Brian Reeve Stamp Auctions": {
+    "postcode": "SW19 2PT",
+    "address": "2 College Fields, London SW19 2PT",
+    "lat": 51.413637,
+    "lng": -0.174214,
+    "url": "https://www.easyliveauction.com/auctioneers/brianreevestampauctions/"
+  },
+  "Britannica Auctions Ltd": {
+    "postcode": "DL8 3SR",
+    "address": "2 Yore Mill, Aysgarth, Leyburn DL8 3SR",
+    "lat": 54.291594,
+    "lng": -1.984101,
+    "url": "https://www.easyliveauction.com/auctioneers/britannicaauctions/"
+  },
+  "Browns ASR Ltd": {
+    "postcode": "TD9 8JE",
+    "address": "The Granary, Wester Fodderlee, Hawick TD9 8JE",
+    "lat": 55.421532,
+    "lng": -2.628548,
+    "url": "https://www.easyliveauction.com/auctioneers/brownsasr/"
+  },
+  "Bulstrodes Auctions": {
+    "postcode": "BH23 1PL",
+    "address": "13 Stour Road, Christchurch BH23 1PL",
+    "lat": 50.738182,
+    "lng": -1.783476,
+    "url": "https://www.easyliveauction.com/auctioneers/bulstrodes/"
+  },
+  "Burstow & Hewett": {
+    "postcode": "TN33 0AT",
+    "address": "Abbey Auction Gallery, Lower Lake, Battle TN33 0AT",
+    "lat": 50.913589,
+    "lng": 0.49114,
+    "url": "https://www.easyliveauction.com/auctioneers/burstowandhewett/"
+  },
+  "Busby Auctioneers & Valuers": {
+    "postcode": "DT6 3BE",
+    "address": "North Mills, Bridport DT6 3BE",
+    "lat": 50.739174,
+    "lng": -2.759161,
+    "url": "https://www.easyliveauction.com/auctioneers/busby/"
+  },
+  "Bushey Auctions": {
+    "postcode": "WD24 5RR",
+    "address": "Shakespeare Industrial Estate, Watford WD24 5RR",
+    "lat": 51.670811,
+    "lng": -0.404061,
+    "url": "https://www.easyliveauction.com/auctioneers/busheyauctions/"
+  },
+  "C&T Auctioneers and Valuers Ltd": {
+    "postcode": "TN26 2LF",
+    "address": "High House Business Park, Nr Ashford TN26 2LF",
+    "lat": 51.061334,
+    "lng": 0.815212,
+    "url": "https://www.easyliveauction.com/auctioneers/candtauctioneersandvaluers/"
+  },
+  "Cadmore Auctions": {
+    "postcode": "EN6 1TL",
+    "address": "3 Station Close, Potters Bar EN6 1TL",
+    "lat": 51.699035,
+    "lng": -0.193516,
+    "url": "https://www.easyliveauction.com/auctioneers/cadmoreauctions/"
+  },
+  "Cambridgeshire Philatelic Auctions Ltd": {
+    "postcode": "CB7 4AA",
+    "address": "27 Fore Hill, Ely CB7 4AA",
+    "lat": 52.398357,
+    "lng": 0.267804,
+    "url": "https://www.easyliveauction.com/auctioneers/cambridgeshirephilatelicauctions/"
+  },
+  "Canalbank Auction": {
+    "postcode": "FK4 2BP",
+    "address": "Canalbank Estate, Seabegs Road, Bonnybridge FK4 2BP",
+    "lat": 55.998279,
+    "lng": -3.887324,
+    "url": "https://www.easyliveauction.com/auctioneers/canalbankauction/"
+  },
+  "Capes Dunn": {
+    "postcode": "SK4 3QT",
+    "address": "40 Station Road, Heaton Mersey, Cheshire SK4 3QT",
+    "lat": 53.409599,
+    "lng": -2.203523,
+    "url": "https://www.easyliveauction.com/auctioneers/capesdunn/"
+  },
+  "Cardiff City Auctions Limited": {
+    "postcode": "CF24 2QS",
+    "address": "Clydesmuir Road, Tremorfa, Cardiff CF24 2QS",
+    "lat": 51.490398,
+    "lng": -3.144363,
+    "url": "https://www.easyliveauction.com/auctioneers/cardiffcityauctions/"
+  },
+  "Carn Brea Auctions Ltd": {
+    "postcode": "TR14 8LQ",
+    "address": "Trevithick Market, Trevithick Road, Camborne TR14 8LQ",
+    "lat": 50.215503,
+    "lng": -5.301091,
+    "url": "https://www.easyliveauction.com/auctioneers/carnbrea/"
+  },
+  "Castleblair Auctioneers": {
+    "postcode": "KY11 9JF",
+    "address": "68a East Way, Hillend Industrial Park, Dalgety Bay KY11 9JF",
+    "lat": 56.044939,
+    "lng": -3.344575,
+    "url": "https://www.easyliveauction.com/auctioneers/paulalexanderauctioneers/"
+  },
+  "Cato Crane Auctioneers": {
+    "postcode": "L8 5RE",
+    "address": "39 Stanhope Street, Liverpool L8 5RE",
+    "lat": 53.393233,
+    "lng": -2.979478,
+    "url": "https://www.easyliveauction.com/auctioneers/catocrane/"
+  },
+  "Cavendish Philatelic Auctions Ltd": {
+    "postcode": "DE1 2SY",
+    "address": "Cavendish House, 153-157 London Road, Derby DE1 2SY",
+    "lat": 52.914871,
+    "lng": -1.466584,
+    "url": "https://www.easyliveauction.com/auctioneers/cavendishphilatelicauctions/"
+  },
+  "Cedar Auctions": {
+    "postcode": "CH65 1AY",
+    "address": "53 North Road, Ellesmere Park, Cheshire CH65 1AY",
+    "lat": 53.294112,
+    "lng": -2.91004,
+    "url": "https://www.easyliveauction.com/auctioneers/cedarauctions/"
+  },
+  "Charles Miller Ltd": {
+    "postcode": "SW6 6BH",
+    "address": "300 Munster Road, Fulham, London SW6 6BH",
+    "lat": 51.482289,
+    "lng": -0.213429,
+    "url": "https://www.easyliveauction.com/auctioneers/charlesmiller/"
+  },
+  "Charles Phillips Online": {
+    "postcode": "EH21 8JT",
+    "address": "Drummore House, North Berwick Road, Edinburgh EH21 8JT",
+    "lat": 55.943315,
+    "lng": -3.007317,
+    "url": "https://www.easyliveauction.com/auctioneers/charlesphillipsonline/"
+  },
+  "Charterhouse Auctioneers": {
+    "postcode": "DT9 3BS",
+    "address": "The Long Street Salerooms, Sherborne DT9 3BS",
+    "lat": 50.947652,
+    "lng": -2.513897,
+    "url": "https://www.easyliveauction.com/auctioneers/charterhouse/"
+  },
+  "Chaucer Auctions": {
+    "postcode": "CT19 6PQ",
+    "address": "Bowles Well Gardens, Folkestone CT19 6PQ",
+    "lat": 51.090699,
+    "lng": 1.19193,
+    "url": "https://www.easyliveauction.com/auctioneers/chaucerauctions/"
+  },
+  "Cheshire Stamp Coin Auctions": {
+    "postcode": "WA16 8GS",
+    "address": "Booths Hall, Booths Park, Knutsford WA16 8GS",
+    "lat": 53.298338,
+    "lng": -2.350213,
+    "url": "https://www.easyliveauction.com/auctioneers/cheshirestampcoinauctions/"
+  },
+  "Chesterfield Auctions": {
+    "postcode": "S40 4RY",
+    "address": "24 Ruston Close, Chesterfield S40 4RY",
+    "lat": 53.248413,
+    "lng": -1.464563,
+    "url": "https://www.easyliveauction.com/auctioneers/chesterfieldauctions/"
+  },
+  "Chilcotts Auctioneers": {
+    "postcode": "EX14 1HT",
+    "address": "The Dolphin Saleroom, High Street, Honiton EX14 1HT",
+    "lat": 50.799877,
+    "lng": -3.189622,
+    "url": "https://www.easyliveauction.com/auctioneers/chilcottsauctioneers/"
+  },
+  "Chipperfield Stamp Auctions": {
+    "postcode": "HA5 3BP",
+    "address": "101 Paines Lane, Pinner HA5 3BP",
+    "lat": 51.597058,
+    "lng": -0.379288,
+    "url": "https://www.easyliveauction.com/auctioneers/chipperfieldstampauctions/"
+  },
+  "Chorley Auction House Ltd": {
+    "postcode": "PR6 0AA",
+    "address": "Primrose Bank House, Friday Street, Chorley PR6 0AA",
+    "lat": 53.654128,
+    "lng": -2.626029,
+    "url": "https://www.easyliveauction.com/auctioneers/chorleyauctions/"
+  },
+  "Churchill Auctions Ltd": {
+    "postcode": "OX9 3SE",
+    "address": "6 Lupton Road, Thame OX9 3SE",
+    "lat": 51.739561,
+    "lng": -0.966526,
+    "url": "https://www.easyliveauction.com/auctioneers/churchillauctions/"
+  },
+  "Clare Auction": {
+    "postcode": "CO10 8NN",
+    "address": "4 Market Hill, Clare, Suffolk CO10 8NN",
+    "lat": 52.078308,
+    "lng": 0.581129,
+    "url": "https://www.easyliveauction.com/auctioneers/clareauction/"
+  },
+  "Clarke's Auctions": {
+    "postcode": "SP8 4QF",
+    "address": "The Old Glove Factory, Buckingham Road, Gillingham SP8 4QF",
+    "lat": 51.036226,
+    "lng": -2.273873,
+    "url": "https://www.easyliveauction.com/auctioneers/clarkesauctions/"
+  },
+  "Claydon Auctioneers": {
+    "postcode": "MK18 2EZ",
+    "address": "The Claydon Saleroom, Calvert Road, Buckingham MK18 2EZ",
+    "lat": 51.910284,
+    "lng": -0.956595,
+    "url": "https://www.easyliveauction.com/auctioneers/claydonauctioneers/"
+  },
+  "Clifford Cross Auctions": {
+    "postcode": "PE13 1RF",
+    "address": "Chase Auction Hall, Chapel Road, Wisbech PE13 1RF",
+    "lat": 52.666149,
+    "lng": 0.15714,
+    "url": "https://www.easyliveauction.com/auctioneers/cliffordcrossauctions/"
+  },
+  "Clwyd Auction Centre": {
+    "postcode": "CH5 3BS",
+    "address": "Holywell Road, Ewloe, Deeside CH5 3BS",
+    "lat": 53.193754,
+    "lng": -3.056321,
+    "url": "https://www.easyliveauction.com/auctioneers/clwydauctioncentre/"
+  },
+  "Corbitts LTD": {
+    "postcode": "NE1 1YE",
+    "address": "5 Mosley Street, Newcastle Upon Tyne NE1 1YE",
+    "lat": 54.97125,
+    "lng": -1.609877,
+    "url": "https://www.easyliveauction.com/auctioneers/corbittstamps/"
+  },
+  "Cotswold Auction Company": {
+    "postcode": "GL7 1YG",
+    "address": "Cirencester GL7 1YG",
+    "lat": 51.705001,
+    "lng": -1.960177,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/c/cotswold-auction-company"
+  },
+  "Cottees Auctions": {
+    "postcode": "BH12 4NH",
+    "address": "Mannings Heath Road, Poole BH12 4NH",
+    "lat": 50.746229,
+    "lng": -1.944535,
+    "url": "https://www.easyliveauction.com/auctioneers/cottees/"
+  },
+  "Crombie's Auctioneers": {
+    "postcode": "G41 1BS",
+    "address": "39 Durham Street, Kinning Park, Glasgow G41 1BS",
+    "lat": 55.848434,
+    "lng": -4.286863,
+    "url": "https://www.easyliveauction.com/auctioneers/crombiesauctioneers/"
+  },
+  "Cromwells Auction Hertfordshire": {
+    "postcode": "CM21 9JX",
+    "address": "The Maltings, Station Road, Sawbridgeworth CM21 9JX",
+    "lat": 51.812226,
+    "lng": 0.159248,
+    "url": "https://www.easyliveauction.com/auctioneers/cromwellsauctions/"
+  },
+  "Crow's Auction Gallery Ltd": {
+    "postcode": "RH4 1SG",
+    "address": "Rear of Dorking Halls, Reigate Road, Dorking RH4 1SG",
+    "lat": 51.234462,
+    "lng": -0.325637,
+    "url": "https://www.easyliveauction.com/auctioneers/crowsauctions/"
+  },
+  "Cruso & Wilkin": {
+    "postcode": "PE31 7PF",
+    "address": "Snettisham Auction Centre, Norfolk PE31 7PF",
+    "lat": 52.874787,
+    "lng": 0.487579,
+    "url": "https://www.easyliveauction.com/auctioneers/crusowilkinauctions/"
+  },
+  "Cullens of Surrey": {
+    "postcode": "SM6 7NY",
+    "address": "365 Croydon Road, Wallington SM6 7NY",
+    "lat": 51.367343,
+    "lng": -0.153027,
+    "url": "https://www.easyliveauction.com/auctioneers/cullensofsurrey/"
+  },
+  "Curr & Dewar": {
+    "postcode": "DD4 8XD",
+    "address": "16a Tom Johnston Rd, Dundee DD4 8XD",
+    "lat": 56.479884,
+    "lng": -2.884051,
+    "url": "https://www.easyliveauction.com/auctioneers/curranddewar/"
+  },
+  "Cuttlestones Ltd": {
+    "postcode": "ST19 5AP",
+    "address": "Penkridge Auction Rooms, Penfold Lane, Penkridge ST19 5AP",
+    "lat": 52.725744,
+    "lng": -2.118348,
+    "url": "https://www.easyliveauction.com/auctioneers/cuttlestones/"
+  },
+  "Dartmoor Auctions": {
+    "postcode": "EX20 2NL",
+    "address": "The Saleroom, Bowden Place, Sticklepath, Devon EX20 2NL",
+    "lat": 50.730752,
+    "lng": -3.928928,
+    "url": "https://www.easyliveauction.com/auctioneers/dartmoorauctions/"
+  },
+  "David Stanley Auctions": {
+    "postcode": "LE12 9SR",
+    "address": "Stordon Grange, Osgathorpe, Leicestershire LE12 9SR",
+    "lat": 52.774222,
+    "lng": -1.369487,
+    "url": "https://www.easyliveauction.com/auctioneers/davidstanleyauctions/"
+  },
+  "Davidson-Reid Auctions": {
+    "postcode": "AB41 9JD",
+    "address": "42 Market Street, Ellon AB41 9JD",
+    "lat": 57.364387,
+    "lng": -2.072502,
+    "url": "https://www.easyliveauction.com/auctioneers/davidsonreidauctions/"
+  },
+  "Dawsons Auctioneers": {
+    "postcode": "SL6 7BU",
+    "address": "Cordwallis Park, Clivemont Road, Maidenhead SL6 7BU",
+    "lat": 51.529836,
+    "lng": -0.726654,
+    "url": "https://www.easyliveauction.com/auctioneers/dawsonsauctions/"
+  },
+  "Deal Auction House": {
+    "postcode": "CT16 3QX",
+    "address": "Tridax Business Park, Whitfield, Dover CT16 3QX",
+    "lat": 51.152719,
+    "lng": 1.305926,
+    "url": "https://www.easyliveauction.com/auctioneers/dealauctionhouse/"
+  },
+  "Devon Online Auctions": {
+    "postcode": "EX19 8DH",
+    "address": "Beechlea Industrial Estate, Winkleigh EX19 8DH",
+    "lat": 50.86617,
+    "lng": -3.94513,
+    "url": "https://www.easyliveauction.com/auctioneers/devononlineauctions/"
+  },
+  "Doncaster Auction Centre": {
+    "postcode": "DN6 7BD",
+    "address": "Hutton Business Park, Bentley Moor Lane, Doncaster DN6 7BD",
+    "lat": 53.576613,
+    "lng": -1.173284,
+    "url": "https://www.easyliveauction.com/auctioneers/doncasterauctioncentre/"
+  },
+  "Dore & Rees Auctions": {
+    "postcode": "BA11 1PU",
+    "address": "Auction Salerooms, Vicarage Street, Frome BA11 1PU",
+    "lat": 51.229387,
+    "lng": -2.31966,
+    "url": "https://www.easyliveauction.com/auctioneers/doreandrees/"
+  },
+  "Dore & Rees Motoring": {
+    "postcode": "BN44 3SA",
+    "address": "Grove House, Elm Grove Lane, Steyning BN44 3SA",
+    "lat": 50.888947,
+    "lng": -0.329237,
+    "url": "https://www.easyliveauction.com/auctioneers/doreandreesmotoring/"
+  },
+  "Dorset Vintage & Classic Auctions": {
+    "postcode": "DT10 2RH",
+    "address": "The Old Gas Works, Station Road, Stalbridge DT10 2RH",
+    "lat": 50.960891,
+    "lng": -2.373559,
+    "url": "https://www.easyliveauction.com/auctioneers/dorsetvintageandclassicauctions/"
+  },
+  "Drake's Auctions": {
+    "postcode": "PL19 9RQ",
+    "address": "Parade Business Park, Pixon Lane, Tavistock PL19 9RQ",
+    "lat": 50.543427,
+    "lng": -4.146729,
+    "url": "https://www.easyliveauction.com/auctioneers/drakesauction/"
+  },
+  "Dreweatts 1759": {
+    "postcode": "RG14 2JE",
+    "address": "Donnington Priory, Newbury RG14 2JE",
+    "lat": 51.414643,
+    "lng": -1.331003,
+    "url": "https://www.easyliveauction.com/auctioneers/dreweatts1759/"
+  },
+  "Droitwich Auctions Ltd": {
+    "postcode": "WR9 8DY",
+    "address": "16 Saint Andrews Street, Droitwich WR9 8DY",
+    "lat": 52.268012,
+    "lng": -2.148845,
+    "url": "https://www.easyliveauction.com/auctioneers/droitwichauctions/"
+  },
+  "Duke's": {
+    "postcode": "DT1 1GA",
+    "address": "Duke's Fine Art Auctions, Brewery Square, Dorchester DT1 1GA",
+    "lat": 50.709166,
+    "lng": -2.439024,
+    "url": "https://www.easyliveauction.com/auctioneers/dukes/"
+  },
+  "Eastbourne Auctions": {
+    "postcode": "BN22 8QL",
+    "address": "Auction House, Finmere Road, Eastbourne BN22 8QL",
+    "lat": 50.785043,
+    "lng": 0.301674,
+    "url": "https://www.easyliveauction.com/auctioneers/eastbourne/"
+  },
+  "Edwins Auctioneers and Valuers Ltd": {
+    "postcode": "DE56 1YD",
+    "address": "Strutt House, Bridge Foot, Belper DE56 1YD",
+    "lat": 53.028863,
+    "lng": -1.486563,
+    "url": "https://www.easyliveauction.com/auctioneers/edwinsauctioneersandvaluers/"
+  },
+  "Eldreds Auctioneers & Valuers": {
+    "postcode": "PL6 7BP",
+    "address": "1 Belliver Way, Roborough, Plymouth PL6 7BP",
+    "lat": 50.44172,
+    "lng": -4.115193,
+    "url": "https://www.easyliveauction.com/auctioneers/eldredsauctioneersandvaluers/"
+  },
+  "Elephant House Auctions": {
+    "postcode": "PE29 2LN",
+    "address": "3 Roman Way Ind. Est., Godmanchester PE29 2LN",
+    "lat": 52.312626,
+    "lng": -0.166132,
+    "url": "https://www.easyliveauction.com/auctioneers/elephanthouseauctions/"
+  },
+  "Elite Auctions": {
+    "postcode": "WF2 0DX",
+    "address": "Silcoates Street, Wakefield WF2 0DX",
+    "lat": 53.688675,
+    "lng": -1.516072,
+    "url": "https://www.easyliveauction.com/auctioneers/eliteauctions/"
+  },
+  "Elliotts UK Auctioneers": {
+    "postcode": "BH21 1HB",
+    "address": "Stone Lane Industrial Estate, Wimborne BH21 1HB",
+    "lat": 50.806206,
+    "lng": -1.992533,
+    "url": "https://www.easyliveauction.com/auctioneers/elliotts/"
+  },
+  "Ellis Willis & Beckett": {
+    "postcode": "S8 0XL",
+    "address": "178 Broadfield Road, Sheffield S8 0XL",
+    "lat": 53.361562,
+    "lng": -1.47634,
+    "url": "https://www.easyliveauction.com/auctioneers/elliswillisandbeckett/"
+  },
+  "Elstob Auctioneers": {
+    "postcode": "HG4 1AJ",
+    "address": "Ripon Business Park, Charter Road, Ripon HG4 1AJ",
+    "lat": 54.129268,
+    "lng": -1.507256,
+    "url": "https://www.easyliveauction.com/auctioneers/elstobauctioneers/"
+  },
+  "Embassy Philatelists": {
+    "postcode": "GU9 1QX",
+    "address": "PO BOX 751, Farnham GU9 1QX",
+    "lat": 51.214397,
+    "lng": -0.80168,
+    "url": "https://www.easyliveauction.com/auctioneers/embassyphilatelists/"
+  },
+  "Emporium Auctions": {
+    "postcode": "PL14 4BG",
+    "address": "Upper Sungirt, Liskeard, Cornwall PL14 4BG",
+    "lat": 50.453537,
+    "lng": -4.46438,
+    "url": "https://www.easyliveauction.com/auctioneers/emporiumauctions/"
+  },
+  "Essex and Suffolk Auctions": {
+    "postcode": "CO7 6HX",
+    "address": "Birchwood Farm Business Centre, Dedham CO7 6HX",
+    "lat": 51.943118,
+    "lng": 0.957102,
+    "url": "https://www.easyliveauction.com/auctioneers/essexandsuffolkauctions/"
+  },
+  "Essex Coin Auctions": {
+    "postcode": "EC1V 2NX",
+    "address": "128 City Road, London EC1V 2NX",
+    "lat": 51.527304,
+    "lng": -0.088894,
+    "url": "https://www.easyliveauction.com/auctioneers/essexcoinauctions/"
+  },
+  "Etrusca Auctions": {
+    "postcode": "EC1N 8LE",
+    "address": "63-66 Hatton Garden, London EC1N 8LE",
+    "lat": 51.521073,
+    "lng": -0.108947,
+    "url": "https://www.easyliveauction.com/auctioneers/etruscaauctions/"
+  },
+  "F Turner & Sons": {
+    "postcode": "L1 9DW",
+    "address": "Century Salerooms, 28-36 Roscoe Street, Liverpool L1 9DW",
+    "lat": 53.401294,
+    "lng": -2.974189,
+    "url": "https://www.easyliveauction.com/auctioneers/turnerandsons/"
+  },
+  "Fieldings Auctioneers Ltd": {
+    "postcode": "DY8 1JN",
+    "address": "Mill Race Lane, Stourbridge DY8 1JN",
+    "lat": 52.460116,
+    "lng": -2.146507,
+    "url": "https://www.easyliveauction.com/auctioneers/fieldingsauctioneers/"
+  },
+  "FM Hutchings Commercial Auction": {
+    "postcode": "WR11 2LG",
+    "address": "Eastwick Drive, Evesham WR11 2LG",
+    "lat": 52.083079,
+    "lng": -1.951847,
+    "url": "https://www.easyliveauction.com/auctioneers/fmhutchingscommercialauction/"
+  },
+  "FMC Auctions": {
+    "postcode": "BT53 6JR",
+    "address": "22B Seymour Street, Ballymoney BT53 6JR",
+    "lat": 55.067241,
+    "lng": -6.514171,
+    "url": "https://www.easyliveauction.com/auctioneers/fmcauctions/"
+  },
+  "Fosse Lane Auction": {
+    "postcode": "BA4 4PW",
+    "address": "Centurion Business Centre, Fosse Lane, Shepton Mallet BA4 4PW",
+    "lat": 51.181817,
+    "lng": -2.532378,
+    "url": "https://www.easyliveauction.com/auctioneers/fosselaneauction/"
+  },
+  "Foxhill Auctions": {
+    "postcode": "RG17 0NF",
+    "address": "34a High Street, Hungerford RG17 0NF",
+    "lat": 51.414194,
+    "lng": -1.516018,
+    "url": "https://www.easyliveauction.com/auctioneers/foxhillauctions/"
+  },
+  "Franklin Browns": {
+    "postcode": "EH7 6UL",
+    "address": "6b West Telferton, Edinburgh EH7 6UL",
+    "lat": 55.955747,
+    "lng": -3.127023,
+    "url": "https://www.easyliveauction.com/auctioneers/franklinbrowns/"
+  },
+  "Frederick Andrews": {
+    "postcode": "ME7 4DH",
+    "address": "Sheerness / Maidstone, Kent",
+    "lat": 51.384095,
+    "lng": 0.556238,
+    "url": "https://www.easyliveauction.com/auctioneers/frederickandrews/"
+  },
+  "Furlong Auction House": {
+    "postcode": "EC1N 8NX",
+    "address": "London Diamond Bourse, 100 Hatton Garden EC1N 8NX",
+    "lat": 51.518632,
+    "lng": -0.108097,
+    "url": "https://www.easyliveauction.com/auctioneers/furlongauctionhouse/"
+  },
+  "Gardiner Houlgate": {
+    "postcode": "SN13 9SW",
+    "address": "9 Leafield Way, Corsham SN13 9SW",
+    "lat": 51.419357,
+    "lng": -2.198805,
+    "url": "https://www.easyliveauction.com/auctioneers/gardinerhoulgate/"
+  },
+  "Gerrards Auctioneers and Valuers": {
+    "postcode": "FY8 2AE",
+    "address": "St Georges Road, St Annes on Sea FY8 2AE",
+    "lat": 53.752385,
+    "lng": -3.031613,
+    "url": "https://www.easyliveauction.com/auctioneers/gerrards/"
+  },
+  "Glyn Jones Auctions": {
+    "postcode": "PE7 2EU",
+    "address": "Springwater Business Park, Whittlesey PE7 2EU",
+    "lat": 52.548713,
+    "lng": -0.117488,
+    "url": "https://www.easyliveauction.com/auctioneers/glynjonesauctions/"
+  },
+  "Gorringe's": {
+    "postcode": "BN7 2PE",
+    "address": "15 North Street, Lewes BN7 2PE",
+    "lat": 50.878524,
+    "lng": 0.01012,
+    "url": "https://www.easyliveauction.com/auctioneers/gorringes/"
+  },
+  "Grand Auction House": {
+    "postcode": "NW8 8DT",
+    "address": "13-25 Church Street, Marylebone NW8 8DT",
+    "lat": 51.524075,
+    "lng": -0.168893,
+    "url": "https://www.easyliveauction.com/auctioneers/grandauctionhouse/"
+  },
+  "Great Central Railwayana Ltd - GCR Auctions": {
+    "postcode": "NN11 3RL",
+    "address": "14 School Street, Woodford Halse, Daventry NN11 3RL",
+    "lat": 52.171135,
+    "lng": -1.205861,
+    "url": "https://www.easyliveauction.com/auctioneers/greatcentralrailwayana/"
+  },
+  "Greenslade Taylor Hunt Auctions": {
+    "postcode": "TA6 6DF",
+    "address": "Sedgemoor Auction Centre, North Petherton, Bridgwater TA6 6DF",
+    "lat": 51.101326,
+    "lng": -2.998258,
+    "url": "https://www.easyliveauction.com/auctioneers/greensladetaylorhuntauctions/"
+  },
+  "Griffin's Auctioneers": {
+    "postcode": "CV34 5JU",
+    "address": "Unit C2 Harris Road, Warwick CV34 5JU",
+    "lat": 52.291041,
+    "lng": -1.600713,
+    "url": "https://www.easyliveauction.com/auctioneers/griffinsauctioneersandvaluers/"
+  },
+  "Grove Mill Auctions": {
+    "postcode": "PR7 2NB",
+    "address": "Lydgate, Chorley PR7 2NB",
+    "lat": 53.640001,
+    "lng": -2.64757,
+    "url": "https://www.easyliveauction.com/auctioneers/grovemillauction/"
+  },
+  "H & H Auctioneers Ltd": {
+    "postcode": "WF10 5NW",
+    "address": "Diggerland, Willowbridge Lane, Castleford WF10 5NW",
+    "lat": 53.717024,
+    "lng": -1.380994,
+    "url": "https://www.easyliveauction.com/auctioneers/handhauctioneers/"
+  },
+  "H J Pugh & Co": {
+    "postcode": "HR8 2LP",
+    "address": "Hazle Meadows Auction Centre, Ross Road, Ledbury HR8 2LP",
+    "lat": 52.027072,
+    "lng": -2.442447,
+    "url": "https://www.easyliveauction.com/auctioneers/hjpugh/"
+  },
+  "Halfway Auctions": {
+    "postcode": "BD17 7AR",
+    "address": "107-108 Dockfield Road, Shipley BD17 7AR",
+    "lat": 53.839142,
+    "lng": -1.765041,
+    "url": "https://www.easyliveauction.com/auctioneers/halfwayauctions/"
+  },
+  "Halifax Mill Auctioneers": {
+    "postcode": "HX1 2SY",
+    "address": "The Printworks, Paradise Street, Halifax HX1 2SY",
+    "lat": 53.720144,
+    "lng": -1.866612,
+    "url": "https://www.easyliveauction.com/auctioneers/halifaxmillauctioneers/"
+  },
+  "Halls Fine Art Auctioneers": {
+    "postcode": "SY43DR",
+    "address": "Halls Holdings House, Bowmen Way, Shrewsbury",
+    "lat": 52.748385,
+    "lng": -2.715155,
+    "url": "https://www.easyliveauction.com/auctioneers/hallsfineartauctioneers/"
+  },
+  "Hamilton Square Auctioneers": {
+    "postcode": "CH41 6AZ",
+    "address": "34 Hamilton Square, Birkenhead CH41 6AZ",
+    "lat": 53.393671,
+    "lng": -3.017399,
+    "url": "https://www.easyliveauction.com/auctioneers/hamiltonsquareauctioneers/"
+  },
+  "Hannam's Auctioneers": {
+    "postcode": "GU34 3NB",
+    "address": "The Old Dairy, Norton Farm, Selborne GU34 3NB",
+    "lat": 51.110102,
+    "lng": -0.946503,
+    "url": "https://www.easyliveauction.com/auctioneers/Hannams/"
+  },
+  "Hanworth Auctions Ltd": {
+    "postcode": "TW12 3QD",
+    "address": "Old Farm Stables, Oak Ave, Hampton TW12 3QD",
+    "lat": 51.429388,
+    "lng": -0.385918,
+    "url": "https://www.easyliveauction.com/auctioneers/waltonauctions/"
+  },
+  "Harrisons Auction Centre": {
+    "postcode": "PE6 0LD",
+    "address": "197 Nene Terrace Road, Crowland, Peterborough PE6 0LD",
+    "lat": 52.655647,
+    "lng": -0.141584,
+    "url": "https://www.easyliveauction.com/auctioneers/harrisons/"
+  },
+  "Harrisons Auction Rooms": {
+    "postcode": "S63 0BJ",
+    "address": "Lidget Lane, Thurnscoe, Rotherham S63 0BJ",
+    "lat": 53.543721,
+    "lng": -1.29506,
+    "url": "https://www.easyliveauction.com/auctioneers/harrisonsauctionrooms/"
+  },
+  "Harrogate Auction Centre": {
+    "postcode": "HG31DP",
+    "address": "Follifoot Ridge Farm Business Park, Harrogate HG31DP",
+    "lat": 53.965362,
+    "lng": -1.503062,
+    "url": "https://www.easyliveauction.com/auctioneers/harrogateauctioncentre/"
+  },
+  "Hartleys Auctions Ltd": {
+    "postcode": "LS29 8EA",
+    "address": "Victoria Hall, Little Lane, Ilkley LS29 8EA",
+    "lat": 53.926625,
+    "lng": -1.819358,
+    "url": "https://www.easyliveauction.com/auctioneers/hartleys/"
+  },
+  "Hartwell Auctions Ltd": {
+    "postcode": "TN12 7DJ",
+    "address": "3 Longbrooks, Knowle Road, Brenchley TN12 7DJ",
+    "lat": 51.164683,
+    "lng": 0.413616,
+    "url": "https://www.easyliveauction.com/auctioneers/hartwellauctions/"
+  },
+  "Hawleys Auctioneers & Valuers": {
+    "postcode": "HU15 2NJ",
+    "address": "Albion House, Westgate, North Cave HU15 2NJ",
+    "lat": 53.779781,
+    "lng": -0.648777,
+    "url": "https://www.easyliveauction.com/auctioneers/hawleysauctioneers/"
+  },
+  "Heart of Gloucester Auctions Ltd": {
+    "postcode": "GL2 5HY",
+    "address": "7 Empire Way, Gloucester GL2 5HY",
+    "lat": 51.844654,
+    "lng": -2.262398,
+    "url": "https://www.easyliveauction.com/auctioneers/heartofgloucesterauctions/"
+  },
+  "Henry Adams Fine Art Auctioneers": {
+    "postcode": "PO19 1UA",
+    "address": "Baffins Hall, Baffins Lane, Chichester PO19 1UA",
+    "lat": 50.835796,
+    "lng": -0.776051,
+    "url": "https://www.easyliveauction.com/auctioneers/henryadamsfineartauctioneers/"
+  },
+  "Henry Aldridge & Son Ltd Auctioneers & Valuers": {
+    "postcode": "SN10 1BD",
+    "address": "The Old Emporium, 6/7 St John Street, Devizes SN10 1BD",
+    "lat": 51.351538,
+    "lng": -1.994803,
+    "url": "https://www.easyliveauction.com/auctioneers/henryaldridgeandson/"
+  },
+  "Hexham Auction Mart Co": {
+    "postcode": "NE46 3SG",
+    "address": "Mart Offices, Tyne Green, Hexham NE46 3SG",
+    "lat": 54.975501,
+    "lng": -2.09837,
+    "url": "https://www.easyliveauction.com/auctioneers/hexhamauctionmart/"
+  },
+  "Hidden Gem Auctions": {
+    "postcode": "WS3 3SW",
+    "address": "The Former Chapel, Park Road, Bloxwich WS3 3SW",
+    "lat": 52.618107,
+    "lng": -2.003732,
+    "url": "https://www.easyliveauction.com/auctioneers/hiddengemantiques/"
+  },
+  "Homefront Auctions": {
+    "postcode": "SA5 4DY",
+    "address": "Ashford House, Abergelly Rd, Swansea SA5 4DY",
+    "lat": 51.647207,
+    "lng": -3.991509,
+    "url": "https://www.easyliveauction.com/auctioneers/homefrontauctions/"
+  },
+  "Hosker Haynes Auctioneers": {
+    "postcode": "LS19 9NF",
+    "address": "PO Box 431, Leeds LS19 9NF",
+    "lat": 53.863306,
+    "lng": -1.69151,
+    "url": "https://www.easyliveauction.com/auctioneers/hoskerhaynesauctioneers/"
+  },
+  "House & Son Auctioneers & Valuers": {
+    "postcode": "BH1 3JW",
+    "address": "11-14 Lansdowne House, Christchurch Road, Bournemouth BH1 3JW",
+    "lat": 50.721855,
+    "lng": -1.863505,
+    "url": "https://www.easyliveauction.com/auctioneers/houseandsonauctioneers/"
+  },
+  "HRD Auction Rooms Ltd": {
+    "postcode": "PO36 0AT",
+    "address": "Quay Lane, Brading, Isle of Wight PO36 0AT",
+    "lat": 50.681987,
+    "lng": -1.140571,
+    "url": "https://www.easyliveauction.com/auctioneers/hrdauctionrooms/"
+  },
+  "HT Auctions": {
+    "postcode": "BS31 2EH",
+    "address": "50 St Anne's Avenue, Keynsham, Bristol BS31 2EH",
+    "lat": 51.415523,
+    "lng": -2.507178,
+    "url": "https://www.easyliveauction.com/auctioneers/htauctions/"
+  },
+  "Huddersfield Auctions": {
+    "postcode": "HD5 0RH",
+    "address": "Colne Bridge Road, Huddersfield HD5 0RH",
+    "lat": 53.679857,
+    "lng": -1.734891,
+    "url": "https://www.easyliveauction.com/auctioneers/huddersfieldauctions/"
+  },
+  "Hutchinson Scott Auctioneers": {
+    "postcode": "BD23 6QF",
+    "address": "Embsay Mill, Embsay, Skipton BD23 6QF",
+    "lat": 53.977324,
+    "lng": -1.99204,
+    "url": "https://www.easyliveauction.com/auctioneers/hutchinsonscott/"
+  },
+  "Hyperion Auctions": {
+    "postcode": "PE27 5BH",
+    "address": "Station Road, St. Ives, Cambridgeshire PE27 5BH",
+    "lat": 52.32229,
+    "lng": -0.070014,
+    "url": "https://www.easyliveauction.com/auctioneers/hyperionauctions/"
+  },
+  "Iain M Smith Auctioneers and Valuers": {
+    "postcode": "PH2 6PL",
+    "address": "Perth Aerodrome, Scone, Perthshire PH2 6PL",
+    "lat": 56.435128,
+    "lng": -3.37423,
+    "url": "https://www.easyliveauction.com/auctioneers/iainmsmithauctioneersandvaluers/"
+  },
+  "Ibbett Mosely Auctions": {
+    "postcode": "TN13 1UT",
+    "address": "125 High Street, Sevenoaks TN13 1UT",
+    "lat": 51.271724,
+    "lng": 0.192449,
+    "url": "https://www.easyliveauction.com/auctioneers/ibbettmosely/"
+  },
+  "Irita Marriott Auctioneers and Valuers Ltd": {
+    "postcode": "DE73 8JR",
+    "address": "Williams Yard, Derby Road, Melbourne DE73 8JR",
+    "lat": 52.824314,
+    "lng": -1.42869,
+    "url": "https://www.easyliveauction.com/auctioneers/iritamarriottauctioneers/"
+  },
+  "ISAAC Auctioneers & Valuers Ltd": {
+    "postcode": "SS11 7RF",
+    "address": "Battlesbridge Antiques Centre, Maltings Road, Battlesbridge SS11 7RF",
+    "lat": 51.623548,
+    "lng": 0.570399,
+    "url": "https://www.easyliveauction.com/auctioneers/isaacauctioneersandvaluers/"
+  },
+  "J. Straker Chadwick & Sons": {
+    "postcode": "NP7 5PN",
+    "address": "The Auction Rooms, Lion Street, Abergavenny NP7 5PN",
+    "lat": 51.82295,
+    "lng": -3.018092,
+    "url": "https://www.easyliveauction.com/auctioneers/jstrakerchadwickandsons/"
+  },
+  "J. Stuart Watson Auctioneers": {
+    "postcode": "TN12 9SS",
+    "address": "Dairy Lane Farm, Chainhurst, Kent TN12 9SS",
+    "lat": 51.201233,
+    "lng": 0.473047,
+    "url": "https://www.easyliveauction.com/auctioneers/jstuartwatsonauctioneers/"
+  },
+  "Jacobs and Hunt": {
+    "postcode": "GU33 6JQ",
+    "address": "Plestor Barn, Farnham Road, West Liss GU33 6JQ",
+    "lat": 51.049811,
+    "lng": -0.900163,
+    "url": "https://www.easyliveauction.com/auctioneers/jacobsandhunt/"
+  },
+  "James & Sons Auctioneers": {
+    "postcode": "NR21 9AF",
+    "address": "5 Norwich Street, Fakenham NR21 9AF",
+    "lat": 52.830307,
+    "lng": 0.849346,
+    "url": "https://www.easyliveauction.com/auctioneers/jamesandsonsauctioneers/"
+  },
+  "Jefferys Auctions": {
+    "postcode": "PL22 0BP",
+    "address": "5 Fore Street, Lostwithiel, Cornwall PL22 0BP",
+    "lat": 50.406813,
+    "lng": -4.669167,
+    "url": "https://www.easyliveauction.com/auctioneers/jefferysauctions/"
+  },
+  "JH Auctions LTD": {
+    "postcode": "PE12 6AZ",
+    "address": "Cleylands, Burr Lane, Spalding PE12 6AZ",
+    "lat": 52.767186,
+    "lng": -0.154066,
+    "url": "https://www.easyliveauction.com/auctioneers/jhauctions/"
+  },
+  "John Cowell Auctions": {
+    "postcode": "PR2 0RX",
+    "address": "PO BOX 1319, Preston PR2 0RX",
+    "lat": 53.754266,
+    "lng": -2.708369,
+    "url": "https://www.easyliveauction.com/auctioneers/johncowellauctions/"
+  },
+  "John Goodwin": {
+    "postcode": "WR13 6NP",
+    "address": "Unit 2 Merebrook Business Park, Malvern Wells WR13 6NP",
+    "lat": 52.078817,
+    "lng": -2.298569,
+    "url": "https://www.easyliveauction.com/auctioneers/johngoodwin/"
+  },
+  "John Milne Auctioneers LLP": {
+    "postcode": "AB10 1RJ",
+    "address": "9-11 North Silver Street, Aberdeen AB10 1RJ",
+    "lat": 57.146915,
+    "lng": -2.106253,
+    "url": "https://www.easyliveauction.com/auctioneers/johnmilneauctioneers/"
+  },
+  "John Nicholson's Fine Art Auctioneers & Valuers": {
+    "postcode": "GU27 3HA",
+    "address": "Longfield, Midhurst Road, Fernhurst GU27 3HA",
+    "lat": 51.03413,
+    "lng": -0.725096,
+    "url": "https://www.easyliveauction.com/auctioneers/johnnicholsons/"
+  },
+  "John Rolfe Auctions": {
+    "postcode": "GL8 8YL",
+    "address": "Hangar One, Babdown Airfield, Tetbury GL8 8YL",
+    "lat": 51.646806,
+    "lng": -2.219874,
+    "url": "https://www.easyliveauction.com/auctioneers/johnrolfeauctions/"
+  },
+  "John Taylors Auction Rooms": {
+    "postcode": "LN11 9QE",
+    "address": "The Mart, 127 Eastgate, Louth LN11 9QE",
+    "lat": 53.367618,
+    "lng": -0.001016,
+    "url": "https://www.easyliveauction.com/auctioneers/johntaylorsauctionrooms/"
+  },
+  "Jones & Jacob Limited": {
+    "postcode": "OX49 5EJ",
+    "address": "Watcombe Manor Saleroom, Watlington OX49 5EJ",
+    "lat": 51.642526,
+    "lng": -1.006395,
+    "url": "https://www.easyliveauction.com/auctioneers/jonesandjacob/"
+  },
+  "Jones & Llewelyn Auctioneers": {
+    "postcode": "SA19 7HR",
+    "address": "Llandeilo Auction Rooms, Beechwood Trading Estate SA19 7HR",
+    "lat": 51.891533,
+    "lng": -3.989289,
+    "url": "https://www.easyliveauction.com/auctioneers/jonesandllewelynauctioneers/"
+  },
+  "Justaclickago": {
+    "postcode": "LE12 8TN",
+    "address": "82 Roecliffe Road, Woodhouse Eaves LE12 8TN",
+    "lat": 52.704314,
+    "lng": -1.212316,
+    "url": "https://www.easyliveauction.com/auctioneers/justaclickago/"
+  },
+  "Keighley Auction House": {
+    "postcode": "BD21 1SL",
+    "address": "Springfield Mills, Becks Road, Keighley BD21 1SL",
+    "lat": 53.864597,
+    "lng": -1.915255,
+    "url": "https://www.easyliveauction.com/auctioneers/keighleyauctionhouse/"
+  },
+  "Kent Auction Galleries Ltd": {
+    "postcode": "CT19 6DD",
+    "address": "Unit C Highfield Estate, Folkestone CT19 6DD",
+    "lat": 51.087636,
+    "lng": 1.191448,
+    "url": "https://www.easyliveauction.com/auctioneers/kent/"
+  },
+  "Kew Auctions": {
+    "postcode": "NW10 6QD",
+    "address": "8 Chase Road, London NW10 6QD",
+    "lat": 51.529201,
+    "lng": -0.259962,
+    "url": "https://www.easyliveauction.com/auctioneers/kewauctions/"
+  },
+  "Kidson Trigg Ltd": {
+    "postcode": "SN6 7PZ",
+    "address": "The Kidson-Trigg Auction Rooms, Nr Highworth, Swindon SN6 7PZ",
+    "lat": 51.612473,
+    "lng": -1.680271,
+    "url": "https://www.easyliveauction.com/auctioneers/kidsontrigg/"
+  },
+  "Killens Mendip Auction Rooms": {
+    "postcode": "BA3 4UL",
+    "address": "Rookery Farm, Roemead Road, Binegar BA3 4UL",
+    "lat": 51.232031,
+    "lng": -2.570168,
+    "url": "https://www.easyliveauction.com/auctioneers/killensmendipauctionrooms/"
+  },
+  "Kinghams Auctioneers": {
+    "postcode": "GL56 0JQ",
+    "address": "10-12 Cotswold Business Village, Moreton-in-Marsh GL56 0JQ",
+    "lat": 51.987814,
+    "lng": -1.687395,
+    "url": "https://www.easyliveauction.com/auctioneers/kinghamauctioneers/"
+  },
+  "Kingsley Auctions": {
+    "postcode": "CH47 3BG",
+    "address": "114-118 Market Street, Hoylake, Wirral CH47 3BG",
+    "lat": 53.398159,
+    "lng": -3.171123,
+    "url": "https://www.easyliveauction.com/auctioneers/kingsleyauctions/"
+  },
+  "KLM Whyte Auctioneers": {
+    "postcode": "HX7 5QQ",
+    "address": "Moderna Business Park, Mytholmroyd HX7 5QQ",
+    "lat": 53.729671,
+    "lng": -1.973197,
+    "url": "https://www.easyliveauction.com/auctioneers/klmauctioneers/"
+  },
+  "Landles Auctioneers 1856 Ltd": {
+    "postcode": "PE30 1NY",
+    "address": "Blackfriars Chambers, King's Lynn PE30 1NY",
+    "lat": 52.753333,
+    "lng": 0.399931,
+    "url": "https://www.easyliveauction.com/auctioneers/landlesauctioneers1856/"
+  },
+  "Langleys Auction House": {
+    "postcode": "HP3 8SD",
+    "address": "Green End Farm, Harthall Lane, Kings Langley HP3 8SD",
+    "lat": 51.722565,
+    "lng": -0.430443,
+    "url": "https://www.easyliveauction.com/auctioneers/langleysauctionhouse/"
+  },
+  "Lanora House Auctions Limited": {
+    "postcode": "TR27 4AB",
+    "address": "The Old Foundry Chapel, Chapel Terrace, Hayle TR27 4AB",
+    "lat": 50.1842,
+    "lng": -5.420253,
+    "url": "https://www.easyliveauction.com/auctioneers/lanorahouseauctions/"
+  },
+  "Lawrence Fine Art Auctioneers Ltd, Crewkerne": {
+    "postcode": "TA18 8AB",
+    "address": "The Linen Yard, South Street, Crewkerne TA18 8AB",
+    "lat": 50.882206,
+    "lng": -2.791606,
+    "url": "https://www.easyliveauction.com/auctioneers/lawrencefineartauctioneers/"
+  },
+  "Lawrences Auctioneers Ltd": {
+    "postcode": "RH1 4PA",
+    "address": "Norfolk House, 80 High Street, Bletchingley RH1 4PA",
+    "lat": 51.240834,
+    "lng": -0.101493,
+    "url": "https://www.easyliveauction.com/auctioneers/lawrencesbletchingley/"
+  },
+  "Lay's Auctioneers": {
+    "postcode": "TR18 4RE",
+    "address": "The Penzance Auction House, Alverton Road, Penzance TR18 4RE",
+    "lat": 50.116717,
+    "lng": -5.551368,
+    "url": "https://www.easyliveauction.com/auctioneers/davidlayauctions/"
+  },
+  "Leeds Auction House": {
+    "postcode": "LS9 0SG",
+    "address": "Cross Green Approach, Leeds LS9 0SG",
+    "lat": 53.785622,
+    "lng": -1.512045,
+    "url": "https://www.easyliveauction.com/auctioneers/petercookinternational/"
+  },
+  "Leighton Hall Auctions": {
+    "postcode": "ST15 0SR",
+    "address": "Unit 26 Emerald Way, Stone, Staffordshire ST15 0SR",
+    "lat": 52.884736,
+    "lng": -2.139366,
+    "url": "https://www.easyliveauction.com/auctioneers/leightonhallauctions/"
+  },
+  "Lily Bids Auction House Ltd": {
+    "postcode": "B98 0HU",
+    "address": "Park Farm Industrial Estate, Redditch B98 0HU",
+    "lat": 52.283478,
+    "lng": -1.905412,
+    "url": "https://www.easyliveauction.com/auctioneers/lilybidsauctionhouse/"
+  },
+  "Liskeard Auction Rooms (HCP-SW)": {
+    "postcode": "PL14 4JT",
+    "address": "THE OLD WOOL MILL LAMELLION, Liskeard PL14 4JT",
+    "lat": 50.445756,
+    "lng": -4.479217,
+    "url": "https://www.easyliveauction.com/auctioneers/liskeardauctionrooms/"
+  },
+  "Littleton Auctions": {
+    "postcode": "WR11 8LN",
+    "address": "School Lane, Middle Littleton, Worcestershire WR11 8LN",
+    "lat": 52.121235,
+    "lng": -1.88497,
+    "url": "https://www.easyliveauction.com/auctioneers/littletonauctions/"
+  },
+  "Lockdales Auctioneers": {
+    "postcode": "IP5 3RF",
+    "address": "52 Barrack Square, Martlesham Heath, Ipswich IP5 3RF",
+    "lat": 52.057323,
+    "lng": 1.277714,
+    "url": "https://www.easyliveauction.com/auctioneers/lockdales/"
+  },
+  "Locke's Auctioneers": {
+    "postcode": "BT126GF",
+    "address": "27 Rydalmere Street, Belfast BT126GF",
+    "lat": 54.590382,
+    "lng": -5.952426,
+    "url": "https://www.easyliveauction.com/auctioneers/lagansideauctions/"
+  },
+  "Lodge & Thomas": {
+    "postcode": "TR1 1RH",
+    "address": "Truro Sale Room, Newquay Road, Truro TR1 1RH",
+    "lat": 50.272435,
+    "lng": -5.03581,
+    "url": "https://www.easyliveauction.com/auctioneers/truromarketauctioneers/"
+  },
+  "London Auctions": {
+    "postcode": "SM6 8PZ",
+    "address": "Clyde Works, Clyde Road, Wallington SM6 8PZ",
+    "lat": 51.359942,
+    "lng": -0.145051,
+    "url": "https://www.easyliveauction.com/auctioneers/londonauctions/"
+  },
+  "London Camera & Antique Auction Ltd": {
+    "postcode": "SM5 3AP",
+    "address": "11 High Street, Carshalton SM5 3AP",
+    "lat": 51.365224,
+    "lng": -0.161818,
+    "url": "https://www.easyliveauction.com/auctioneers/londoncameraandantiqueauction/"
+  },
+  "Longmead Philatelics": {
+    "postcode": "TQ12 1AP",
+    "address": "1 Courtenay Road, Newton Abbot TQ12 1AP",
+    "lat": 50.526193,
+    "lng": -3.604161,
+    "url": "https://www.easyliveauction.com/auctioneers/longmeadphilatelics/"
+  },
+  "Lords Auctions": {
+    "postcode": "BD24 9JY",
+    "address": "A65, Settle BD24 9JY",
+    "lat": 54.048548,
+    "lng": -2.283434,
+    "url": "https://www.easyliveauction.com/auctioneers/lordscourtyard/"
+  },
+  "Lots Road Auctions": {
+    "postcode": "SW6 3JX",
+    "address": "London SW6 3JX",
+    "lat": 51.465604,
+    "lng": -0.193795,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/l/lots-road-auctions"
+  },
+  "Lumsden's Auction": {
+    "postcode": "GU16 6ES",
+    "address": "83 Mytchett Road, Mytchett, Camberley GU16 6ES",
+    "lat": 51.290632,
+    "lng": -0.725581,
+    "url": "https://www.easyliveauction.com/auctioneers/lumsdens/"
+  },
+  "Luxoris Auctions": {
+    "postcode": "BD11 1NQ",
+    "address": "Valley Mills, Drighlington BD11 1NQ",
+    "lat": 53.764557,
+    "lng": -1.646208,
+    "url": "https://www.easyliveauction.com/auctioneers/luxorisauctions/"
+  },
+  "Lyme Bay Auctions": {
+    "postcode": "EX12 2WH",
+    "address": "1 Harepath Road, Seaton EX12 2WH",
+    "lat": 50.719829,
+    "lng": -3.071825,
+    "url": "https://www.easyliveauction.com/auctioneers/lymebayauctions/"
+  },
+  "Lymington Auctions": {
+    "postcode": "SO41 9BL",
+    "address": "Lymington Auctions, Emsworth Road, Lymington SO41 9BL",
+    "lat": 50.75939,
+    "lng": -1.54403,
+    "url": "https://www.easyliveauction.com/auctioneers/lymingtonauctions/"
+  },
+  "M Veissid & Co": {
+    "postcode": "SY5 7HD",
+    "address": "Hobsley House, Frodesley, Shrewsbury SY5 7HD",
+    "lat": 52.60626,
+    "lng": -2.717342,
+    "url": "https://www.easyliveauction.com/auctioneers/mveissidandCo/"
+  },
+  "M&M Auctions LTD": {
+    "postcode": "PE11 3SW",
+    "address": "Plover Court, Stephenson Avenue, Spalding PE11 3SW",
+    "lat": 52.801981,
+    "lng": -0.144301,
+    "url": "https://www.easyliveauction.com/auctioneers/mandmspecialistauctioneers/"
+  },
+  "Ma San Auction": {
+    "postcode": "BA1 2ED",
+    "address": "2 Princes Buildings, George Street, Bath BA1 2ED",
+    "lat": 51.38523,
+    "lng": -2.361286,
+    "url": "https://www.easyliveauction.com/auctioneers/masanauction/"
+  },
+  "Main Line Railwayana Auctions Limited": {
+    "postcode": "PE12 8AB",
+    "address": "Welbourne Lane East, Holbeach PE12 8AB",
+    "lat": 52.811997,
+    "lng": 0.007596,
+    "url": "https://www.easyliveauction.com/auctioneers/mainlinerailwayanaauctions/"
+  },
+  "Mark Hill Auctions": {
+    "postcode": "TN2 5TE",
+    "address": "The Pantiles Arcade, Royal Tunbridge Wells TN2 5TE",
+    "lat": 51.125774,
+    "lng": 0.257932,
+    "url": "https://www.easyliveauction.com/auctioneers/markhillauctions/"
+  },
+  "marketplace@dawsons": {
+    "postcode": "SL6 7BU",
+    "address": "Cordwallis Park, Clivemont Road, Maidenhead SL6 7BU",
+    "lat": 51.529836,
+    "lng": -0.726654,
+    "url": "https://www.easyliveauction.com/auctioneers/marketplaceatdawsons/"
+  },
+  "Martello Auctions": {
+    "postcode": "CT21 5NN",
+    "address": "4b Prospect Road, Hythe CT21 5NN",
+    "lat": 51.071014,
+    "lng": 1.085897,
+    "url": "https://www.easyliveauction.com/auctioneers/martellophilatelicauctions/"
+  },
+  "Martin & Pole": {
+    "postcode": "RG40 1DB",
+    "address": "The Auction House, Milton Road, Wokingham RG40 1DB",
+    "lat": 51.412542,
+    "lng": -0.837373,
+    "url": "https://www.easyliveauction.com/auctioneers/martinandpole/"
+  },
+  "Maxwells Auctioneers": {
+    "postcode": "SK7 5DL",
+    "address": "Levens Road, Hazel Grove, Cheshire SK7 5DL",
+    "lat": 53.378706,
+    "lng": -2.132725,
+    "url": "https://www.easyliveauction.com/auctioneers/maxwells/"
+  },
+  "Mayfair Auctions": {
+    "postcode": "W1K 4AJ",
+    "address": "1A Avery Row, London W1K 4AJ",
+    "lat": 51.512437,
+    "lng": -0.145349,
+    "url": "https://www.easyliveauction.com/auctioneers/mayfairauctions/"
+  },
+  "McAfee Auctions": {
+    "postcode": "BT53 6AN",
+    "address": "51 Main Street, Ballymoney BT53 6AN",
+    "lat": 55.069056,
+    "lng": -6.516437,
+    "url": "https://www.easyliveauction.com/auctioneers/mcafeeauctions/"
+  },
+  "McCartneys": {
+    "postcode": "SY8 4AA",
+    "address": "Portcullis Saleroom, Overton Road, Ludlow SY8 4AA",
+    "lat": 52.355426,
+    "lng": -2.721524,
+    "url": "https://www.easyliveauction.com/auctioneers/mccartneys/"
+  },
+  "McCartneys (Brecon)": {
+    "postcode": "LD3 8EX",
+    "address": "Warren Road, Brecon LD3 8EX",
+    "lat": 51.946486,
+    "lng": -3.414442,
+    "url": "https://www.easyliveauction.com/auctioneers/mccartneysbrecon/"
+  },
+  "Medway Auctions": {
+    "postcode": "ME4 4TN",
+    "address": "The Historic Dockyard, Anchor Wharf, Chatham ME4 4TN",
+    "lat": 51.389,
+    "lng": 0.541,
+    "url": "https://www.easyliveauction.com/auctioneers/medwayauctions/"
+  },
+  "Mellors & Kirk": {
+    "postcode": "NG7 2NL",
+    "address": "The Auction House, Gregory St, Nottingham NG7 2NL",
+    "lat": 52.944079,
+    "lng": -1.177778,
+    "url": "https://www.easyliveauction.com/auctioneers/mellorsandkirk/"
+  },
+  "Meta Auctions Ltd": {
+    "postcode": "LU6 3SN",
+    "address": "14 Ashton Square, Dunstable LU6 3SN",
+    "lat": 51.885441,
+    "lng": -0.521095,
+    "url": "https://www.easyliveauction.com/auctioneers/metaauctions/"
+  },
+  "Metsab Auctions Ltd": {
+    "postcode": "CR0 0XZ",
+    "address": "Airport House Business Centre, Croydon CR0 0XZ",
+    "lat": 51.356521,
+    "lng": -0.117713,
+    "url": "https://www.easyliveauction.com/auctioneers/metsabauctions/"
+  },
+  "Michael J Bowman": {
+    "postcode": "TQ13 0HL",
+    "address": "Chudleigh Town Hall, Chudleigh, Newton Abbot TQ13 0HL",
+    "lat": 50.606115,
+    "lng": -3.601267,
+    "url": "https://www.easyliveauction.com/auctioneers/michaeljbowman/"
+  },
+  "Millwards": {
+    "postcode": "HR2 6LR",
+    "address": "Tomhead Industrial Estate, Hereford HR2 6LR",
+    "lat": 52.035634,
+    "lng": -2.688872,
+    "url": "https://www.easyliveauction.com/auctioneers/millwardsauctions/"
+  },
+  "Minster Auctions": {
+    "postcode": "HR6 0QF",
+    "address": "Amtex Building, Southern Avenue, Leominster HR6 0QF",
+    "lat": 52.219239,
+    "lng": -2.732811,
+    "url": "https://www.easyliveauction.com/auctioneers/minsterauctions/"
+  },
+  "Mitchells Auction": {
+    "postcode": "CA13 9PZ",
+    "address": "47 Station Road, Cockermouth CA13 9PZ",
+    "lat": 54.661538,
+    "lng": -3.364172,
+    "url": "https://www.easyliveauction.com/auctioneers/mitchells/"
+  },
+  "Model Toy Auctions & Fairs": {
+    "postcode": "RH20 3PG",
+    "address": "Ashington Centre, Foster Lane, Ashington RH20 3PG",
+    "lat": 50.933355,
+    "lng": -0.395234,
+    "url": "https://www.easyliveauction.com/auctioneers/modeltoyauctions/"
+  },
+  "Money Maker Auction House": {
+    "postcode": "TA1 1NH",
+    "address": "12 Station Road, Taunton TA1 1NH",
+    "lat": 51.019447,
+    "lng": -3.105567,
+    "url": "https://www.easyliveauction.com/auctioneers/moneymaker/"
+  },
+  "Morgan Evans & Co": {
+    "postcode": "LL60 6DF",
+    "address": "Gaerwen Auction Centre, Gaerwen, Isle of Anglesey LL60 6DF",
+    "lat": 53.219134,
+    "lng": -4.275247,
+    "url": "https://www.easyliveauction.com/auctioneers/morganevansandco/"
+  },
+  "Morley Auctioneers & Valuers": {
+    "postcode": "LS27 0QH",
+    "address": "Alexandra Mills, Baker Street, Leeds LS27 0QH",
+    "lat": 53.741555,
+    "lng": -1.605556,
+    "url": "https://www.easyliveauction.com/auctioneers/morleyauctioneers/"
+  },
+  "Morphets of Harrogate Ltd": {
+    "postcode": "HG1 1JL",
+    "address": "6 Albert Street, Harrogate HG1 1JL",
+    "lat": 53.991839,
+    "lng": -1.539016,
+    "url": "https://www.easyliveauction.com/auctioneers/morphets/"
+  },
+  "MST Auctioneers": {
+    "postcode": "EX14 4LB",
+    "address": "Hangar 1, Marcus Road, Dunkeswell, Honiton EX14 4LB",
+    "lat": 50.8612,
+    "lng": -3.227884,
+    "url": "https://www.easyliveauction.com/auctioneers/mstauctioneers/"
+  },
+  "Mulberry Bank Auctions": {
+    "postcode": "G52 4LT",
+    "address": "15 Kelvin Avenue, Hillington Park, Glasgow G52 4LT",
+    "lat": 55.862817,
+    "lng": -4.369743,
+    "url": "https://www.easyliveauction.com/auctioneers/mulberrybankauctions/"
+  },
+  "Mullock Jones Auctioneers & Valuers": {
+    "postcode": "TF7 4PF",
+    "address": "7 Cedar Court, Halesfield 17, Telford TF7 4PF",
+    "lat": 52.637351,
+    "lng": -2.433229,
+    "url": "https://www.easyliveauction.com/auctioneers/mullocks/"
+  },
+  "Mulready Philatelics": {
+    "postcode": "BH15 9LD",
+    "address": "P.O.Box 9866, Poole BH15 9LD",
+    "lat": 50.71555,
+    "lng": -1.985649,
+    "url": "https://www.easyliveauction.com/auctioneers/mulreadyphilatelics/"
+  },
+  "Nesbits Auctions Ltd": {
+    "postcode": "PO5 2ED",
+    "address": "7 Clarendon Road, Southsea, Portsmouth PO5 2ED",
+    "lat": 50.784534,
+    "lng": -1.087295,
+    "url": "https://www.easyliveauction.com/auctioneers/nesbits/"
+  },
+  "Nick Barber Auctions": {
+    "postcode": "IP11 7DS",
+    "address": "154 Hamilton Road, Felixstowe IP11 7DS",
+    "lat": 51.965734,
+    "lng": 1.352738,
+    "url": "https://www.easyliveauction.com/auctioneers/nickbarberauctions/"
+  },
+  "NLB Auctions": {
+    "postcode": "TQ4 7QL",
+    "address": "Yalberton Industrial Estate, Alders Way, Paignton TQ4 7QL",
+    "lat": 50.422515,
+    "lng": -3.591437,
+    "url": "https://www.easyliveauction.com/auctioneers/nlbauctions/"
+  },
+  "Nock Deighton": {
+    "postcode": "WV16 4QR",
+    "address": "The Livestock & Auction Centre, Bridgnorth WV16 4QR",
+    "lat": 52.538477,
+    "lng": -2.446187,
+    "url": "https://www.easyliveauction.com/auctioneers/nockdeighton/"
+  },
+  "North Coast Auctions": {
+    "postcode": "BT53 6NR",
+    "address": "22 Kilmoyle Road, Ballybogey, Antrim BT53 6NR",
+    "lat": 55.141165,
+    "lng": -6.543904,
+    "url": "https://www.easyliveauction.com/auctioneers/northcoastauctionrooms/"
+  },
+  "North Cornwall Auctions": {
+    "postcode": "EX23 8LY",
+    "address": "Bude/Stratton Business Park, Bude EX23 8LY",
+    "lat": 50.82154,
+    "lng": -4.529104,
+    "url": "https://www.easyliveauction.com/auctioneers/northcornwallauctions/"
+  },
+  "North Devon Auctions Ltd": {
+    "postcode": "EX38 8LQ",
+    "address": "Cherrywood Business Park, Langtree, Great Torrington EX38 8LQ",
+    "lat": 50.921955,
+    "lng": -4.232721,
+    "url": "https://www.easyliveauction.com/auctioneers/northdevonauctions/"
+  },
+  "North Wales Auctions": {
+    "postcode": "LL22 7HA",
+    "address": "Abergele Antique Centre, Abergele LL22 7HA",
+    "lat": 53.284415,
+    "lng": -3.580344,
+    "url": "https://www.easyliveauction.com/auctioneers/northwalesauctions/"
+  },
+  "Oakham Auction Centre": {
+    "postcode": "LE15 6QF",
+    "address": "16B Pillings Road, Oakham LE15 6QF",
+    "lat": 52.678875,
+    "lng": -0.734028,
+    "url": "https://www.easyliveauction.com/auctioneers/oakhamauctioncentre/"
+  },
+  "Okehampton Auctions": {
+    "postcode": "EX20 1QQ",
+    "address": "Unit 1 Fatherford Farm, Okehampton EX20 1QQ",
+    "lat": 50.741313,
+    "lng": -3.977624,
+    "url": "https://www.easyliveauction.com/auctioneers/okehamptonauctions/"
+  },
+  "Omega Auctions Ltd": {
+    "postcode": "WA12 8DN",
+    "address": "Sankey Valley Industrial Estate, Newton-le-Willows WA12 8DN",
+    "lat": 53.447984,
+    "lng": -2.643216,
+    "url": "https://www.easyliveauction.com/auctioneers/omegaauctions/"
+  },
+  "Ottery Auction Rooms": {
+    "postcode": "EX11 1NF",
+    "address": "Riverside, Gosford Lane, Ottery St. Mary EX11 1NF",
+    "lat": 50.765295,
+    "lng": -3.291353,
+    "url": "https://www.easyliveauction.com/auctioneers/otteryauctionrooms/"
+  },
+  "Outhwaite & Litherland": {
+    "postcode": "PR9 0NW",
+    "address": "The Saleroom, 16 Hill Street, Southport PR9 0NW",
+    "lat": 53.649488,
+    "lng": -3.000627,
+    "url": "https://www.easyliveauction.com/auctioneers/outhwaiteandlitherland/"
+  },
+  "Overture Auctions": {
+    "postcode": "HP16 9NP",
+    "address": "Little Kings Ash, Great Missenden HP16 9NP",
+    "lat": 51.742329,
+    "lng": -0.714703,
+    "url": "https://www.easyliveauction.com/auctioneers/overtureauctions/"
+  },
+  "P.F. Windibank": {
+    "postcode": "RH4 1SG",
+    "address": "Hut 3, Rear of the Dorking Halls, Reigate Road, Dorking RH4 1SG",
+    "lat": 51.234462,
+    "lng": -0.325637,
+    "url": "https://www.easyliveauction.com/auctioneers/pfwindibank/"
+  },
+  "Parker Fine Art Auctions": {
+    "postcode": "GU9 7SX",
+    "address": "Hawthorn House, East Street, Farnham GU9 7SX",
+    "lat": 51.218109,
+    "lng": -0.790143,
+    "url": "https://www.easyliveauction.com/auctioneers/parkerfineartauctions/"
+  },
+  "Paul Bebb Auctioneer": {
+    "postcode": "SY1 3TE",
+    "address": "Hussey Road, Battlefield Enterprise Park, Shrewsbury SY1 3TE",
+    "lat": 52.744175,
+    "lng": -2.736121,
+    "url": "https://www.easyliveauction.com/auctioneers/patrading/"
+  },
+  "Paul Beighton Auctioneers": {
+    "postcode": "S66 9AQ",
+    "address": "16-18 Woodhouse Green, Thurcroft, Rotherham S66 9AQ",
+    "lat": 53.397094,
+    "lng": -1.258636,
+    "url": "https://www.easyliveauction.com/auctioneers/paulbeightonauctioneers/"
+  },
+  "Peebles Auction House": {
+    "postcode": "EH45 8LH",
+    "address": "The Old School, Old Church Road, Peebles EH45 8LH",
+    "lat": 55.652927,
+    "lng": -3.191742,
+    "url": "https://www.easyliveauction.com/auctioneers/peeblesauctionhouse/"
+  },
+  "Perkins George Mawer & Co": {
+    "postcode": "LN8 3EH",
+    "address": "Corn Exchange Chambers, Market Rasen LN8 3EH",
+    "lat": 53.387398,
+    "lng": -0.336449,
+    "url": "https://www.easyliveauction.com/auctioneers/perkinsgeorgemawer/"
+  },
+  "Peter Francis Auctioneers Ltd": {
+    "postcode": "SA31 1JN",
+    "address": "Towyside Salerooms, Old Station Road, Carmarthen SA31 1JN",
+    "lat": 51.855657,
+    "lng": -4.303473,
+    "url": "https://www.easyliveauction.com/auctioneers/peterfrancisauctioneers/"
+  },
+  "Philangles Stamp Auctions": {
+    "postcode": "WA1 1UJ",
+    "address": "Carson House, 44 Legh Street, Warrington WA1 1UJ",
+    "lat": 53.390225,
+    "lng": -2.597852,
+    "url": "https://www.easyliveauction.com/auctioneers/philangles/"
+  },
+  "Philip Serrell Auctioneers & Valuers Ltd": {
+    "postcode": "WR14 3LW",
+    "address": "The Malvern Saleroom, Barnards Green Road, Malvern WR14 3LW",
+    "lat": 52.109947,
+    "lng": -2.314227,
+    "url": "https://www.easyliveauction.com/auctioneers/philipserrell/"
+  },
+  "Phixius Auctions": {
+    "postcode": "BA12 0PG",
+    "address": "st Mary Barn, East Farm, Codford Nr Warminster BA12 0PG",
+    "lat": 51.15789,
+    "lng": -2.037822,
+    "url": "https://www.easyliveauction.com/auctioneers/phixiusauctions/"
+  },
+  "Piano Auctions Ltd": {
+    "postcode": "MK40 3JJ",
+    "address": "18 Grove Place, Bedford MK40 3JJ",
+    "lat": 52.138366,
+    "lng": -0.462163,
+    "url": "https://www.easyliveauction.com/auctioneers/pianoauctions/"
+  },
+  "Piers Motley Auctions": {
+    "postcode": "EX8 2RT",
+    "address": "Bicton Street Auction Rooms, Exmouth EX8 2RT",
+    "lat": 50.61809,
+    "lng": -3.410977,
+    "url": "https://www.easyliveauction.com/auctioneers/piersmotley/"
+  },
+  "Pilton Auctions": {
+    "postcode": "EX31 1PB",
+    "address": "Pilton Quay, Barnstaple EX31 1PB",
+    "lat": 51.085525,
+    "lng": -4.062427,
+    "url": "https://www.easyliveauction.com/auctioneers/pilton/"
+  },
+  "Pippa Deeley Auctions": {
+    "postcode": "TN32 5RA",
+    "address": "Unit 8, Quarry Farm, Bodiam TN32 5RA",
+    "lat": 50.992838,
+    "lng": 0.534959,
+    "url": "https://www.easyliveauction.com/auctioneers/pippadeeleyauctions/"
+  },
+  "Plumridge & Co": {
+    "postcode": "NN17 9HL",
+    "address": "PO 7831, Northants NN17 9HL",
+    "lat": 52.494774,
+    "lng": -0.677952,
+    "url": "https://www.easyliveauction.com/auctioneers/plumridgeandco/"
+  },
+  "Pontypridd Auctions": {
+    "postcode": "CF37 3BP",
+    "address": "39A Cefn Lane, Glyncoch, Pontypridd CF37 3BP",
+    "lat": 51.621627,
+    "lng": -3.32949,
+    "url": "https://www.easyliveauction.com/auctioneers/pontypriddauctions/"
+  },
+  "Potteries Auctions Ltd": {
+    "postcode": "ST5 6SS",
+    "address": "Aspect Court, Silverdale Enterprise Park, Newcastle-u-lyme ST5 6SS",
+    "lat": 53.020015,
+    "lng": -2.282214,
+    "url": "https://www.easyliveauction.com/auctioneers/potteriesauction/"
+  },
+  "Potters Auction Saleroom Ltd": {
+    "postcode": "DN17 3SA",
+    "address": "42A Northfield Road, Messingham, Scunthorpe DN17 3SA",
+    "lat": 53.532868,
+    "lng": -0.65467,
+    "url": "https://www.easyliveauction.com/auctioneers/pottersauction/"
+  },
+  "Prestige Auctions": {
+    "postcode": "DN31 3AX",
+    "address": "169-177 Cleethorpe Road, Grimsby DN31 3AX",
+    "lat": 53.574861,
+    "lng": -0.069769,
+    "url": "https://www.easyliveauction.com/auctioneers/prestigeauctions/"
+  },
+  "PSP Auctions": {
+    "postcode": "MK18 6AH",
+    "address": "Home Farm, Foscote, Buckingham MK18 6AH",
+    "lat": 52.010446,
+    "lng": -0.95239,
+    "url": "https://www.easyliveauction.com/auctioneers/pspauctions/"
+  },
+  "Pump House Specialist Auctions Ltd": {
+    "postcode": "SO32 2QF",
+    "address": "Soberton Pumping Station, Wickham Road, Southampton SO32 2QF",
+    "lat": 50.924914,
+    "lng": -1.152861,
+    "url": "https://www.easyliveauction.com/auctioneers/pumphousespecialistauctions/"
+  },
+  "Pyle's Auctions (Hatherleigh)": {
+    "postcode": "EX20 3JA",
+    "address": "The Bridge Auctions Rooms, Hatherleigh EX20 3JA",
+    "lat": 50.818827,
+    "lng": -4.072543,
+    "url": "https://www.easyliveauction.com/auctioneers/pyleshatherleigh/"
+  },
+  "Pyle's Auctions (Newport, Barnstaple)": {
+    "postcode": "EX32 9DT",
+    "address": "South Street, Barnstaple EX32 9DT",
+    "lat": 51.070374,
+    "lng": -4.046907,
+    "url": "https://www.easyliveauction.com/auctioneers/pylesbarnstaple/"
+  },
+  "QC Auctions Ltd": {
+    "postcode": "CW8 2EB",
+    "address": "Workshop 6, Blakemere Craft Centre, Sandiway CW8 2EB",
+    "lat": 53.228579,
+    "lng": -2.602936,
+    "url": "https://www.easyliveauction.com/auctioneers/qcauctions/"
+  },
+  "Queens Road Auctions": {
+    "postcode": "EX2 9ER",
+    "address": "9 Queens Road, St Thomas, Exeter EX2 9ER",
+    "lat": 50.714732,
+    "lng": -3.537653,
+    "url": "https://www.easyliveauction.com/auctioneers/queensroadauctions/"
+  },
+  "R.A.M Auctions": {
+    "postcode": "CW2 7RL",
+    "address": "Wistaston Road, Crewe CW2 7RL",
+    "lat": 53.096438,
+    "lng": -2.453915,
+    "url": "https://www.easyliveauction.com/auctioneers/ramauctions/"
+  },
+  "Red Rose Auctions Ltd": {
+    "postcode": "BB4 5HL",
+    "address": "Prinny Mill Business Centre, Haslingden BB4 5HL",
+    "lat": 53.708745,
+    "lng": -2.326331,
+    "url": "https://www.easyliveauction.com/auctioneers/redroseauctions/"
+  },
+  "Regent Auctions": {
+    "postcode": "FY1 3NY",
+    "address": "The Regent, 181-189 Church Street, Blackpool FY1 3NY",
+    "lat": 53.817813,
+    "lng": -3.045948,
+    "url": "https://www.easyliveauction.com/auctioneers/regentauctions/"
+  },
+  "Rendells LLP": {
+    "postcode": "TQ13 7RH",
+    "address": "Stonepark Saleroom, Ashburton, Newton Abbot TQ13 7RH",
+    "lat": 50.511852,
+    "lng": -3.757192,
+    "url": "https://www.easyliveauction.com/auctioneers/rendellsllp/"
+  },
+  "RG & RB Williams Auctioneers": {
+    "postcode": "HR9 7QQ",
+    "address": "Ross Auction Centre, Overross, Ross-on-Wye HR9 7QQ",
+    "lat": 51.927654,
+    "lng": -2.578173,
+    "url": "https://www.easyliveauction.com/auctioneers/rgandrbwilliamsauctioneers/"
+  },
+  "Richard Winterton Auctioneers": {
+    "postcode": "WS13 8NF",
+    "address": "The Lichfield Auction Centre, Wood End Lane, Fradley Park WS13 8NF",
+    "lat": 52.709964,
+    "lng": -1.792865,
+    "url": "https://www.easyliveauction.com/auctioneers/richardwinterton/"
+  },
+  "Richnoddystamps Auctions": {
+    "postcode": "PO19 1AT",
+    "address": "C/o 1 Northgate, Chichester PO19 1AT",
+    "lat": 50.840261,
+    "lng": -0.778193,
+    "url": "https://www.easyliveauction.com/auctioneers/richnoddystamps/"
+  },
+  "Ringwood Auctions": {
+    "postcode": "BH24 1LA",
+    "address": "The Close, Ringwood BH24 1LA",
+    "lat": 50.845897,
+    "lng": -1.78893,
+    "url": "https://www.easyliveauction.com/auctioneers/ringwoodauctions/"
+  },
+  "Riverside Auctions": {
+    "postcode": "CM21 9JX",
+    "address": "Riverside Antique Centre, The Maltings, Sawbridgeworth CM21 9JX",
+    "lat": 51.812226,
+    "lng": 0.159248,
+    "url": "https://www.easyliveauction.com/auctioneers/riversideauctions/"
+  },
+  "Rivus Auctions Ltd": {
+    "postcode": "LE1 2HH",
+    "address": "Curzon House, Curzon Street, Leicester LE1 2HH",
+    "lat": 52.643076,
+    "lng": -1.118104,
+    "url": "https://www.easyliveauction.com/auctioneers/rivusauctions/"
+  },
+  "Robert Bell & Company": {
+    "postcode": "LN9 5HY",
+    "address": "Old Bank Chambers, Bull Ring, Horncastle LN9 5HY",
+    "lat": 53.208172,
+    "lng": -0.115005,
+    "url": "https://www.easyliveauction.com/auctioneers/robertbellandcompany/"
+  },
+  "Robert Murray Stamp Shop": {
+    "postcode": "EH3 5PU",
+    "address": "5 & 6 Inverleith Gardens, Ferry Road, Edinburgh EH3 5PU",
+    "lat": 55.971009,
+    "lng": -3.209821,
+    "url": "https://www.easyliveauction.com/auctioneers/robertmurraystampshop/"
+  },
+  "Roseberys": {
+    "postcode": "SE27 0JD",
+    "address": "70-76 Knights Hill, West Norwood, London SE27 0JD",
+    "lat": 51.431172,
+    "lng": -0.104475,
+    "url": "https://www.easyliveauction.com/auctioneers/roseberyfineart/"
+  },
+  "RWB Auctions": {
+    "postcode": "SN4 7AB",
+    "address": "144 High Street, Royal Wootton Bassett SN4 7AB",
+    "lat": 51.541083,
+    "lng": -1.90534,
+    "url": "https://www.easyliveauction.com/auctioneers/rwbauctions/"
+  },
+  "Rye Auction Galleries": {
+    "postcode": "TN31 7DL",
+    "address": "Unit 2 & 3 Rock Channel Quay, Rye TN31 7DL",
+    "lat": 50.9479,
+    "lng": 0.735505,
+    "url": "https://www.easyliveauction.com/auctioneers/ryeauctiongalleries/"
+  },
+  "Ryedale Auctioneers": {
+    "postcode": "YO62 6DZ",
+    "address": "Cooks Yard, New Road, Kirkbymoorside YO62 6DZ",
+    "lat": 54.265741,
+    "lng": -0.926789,
+    "url": "https://www.easyliveauction.com/auctioneers/ryedaleauctioneers/"
+  },
+  "Salisbury Auctions Ltd": {
+    "postcode": "SP1 2DH",
+    "address": "37 Catherine Street, Salisbury SP1 2DH",
+    "lat": 51.067282,
+    "lng": -1.793489,
+    "url": "https://www.easyliveauction.com/auctioneers/salisburyauctions/"
+  },
+  "Scarva Auctions": {
+    "postcode": "BT63 6NL",
+    "address": "10 Old Mill Road, Scarva, Craigavon BT63 6NL",
+    "lat": 54.325176,
+    "lng": -6.355082,
+    "url": "https://www.easyliveauction.com/auctioneers/scarvaauctions/"
+  },
+  "Schmergel & Schmelz Auctions": {
+    "postcode": "EC1V 2NX",
+    "address": "128 City Road, London EC1V 2NX",
+    "lat": 51.527304,
+    "lng": -0.088894,
+    "url": "https://www.easyliveauction.com/auctioneers/schmergelandschmelzauctions/"
+  },
+  "Semley Auctioneers Limited": {
+    "postcode": "SP7 9AN",
+    "address": "Station Road, Semley, Shaftesbury SP7 9AN",
+    "lat": 51.04065,
+    "lng": -2.181815,
+    "url": "https://www.easyliveauction.com/auctioneers/semleyauctioneers/"
+  },
+  "Shaw's Auction House": {
+    "postcode": "BB1 2QY",
+    "address": "Business First Business Centre, Davyfield Road, Blackburn BB1 2QY",
+    "lat": 53.718034,
+    "lng": -2.459521,
+    "url": "https://www.easyliveauction.com/auctioneers/shawsauctionhouse/"
+  },
+  "Sheffield Auction Gallery": {
+    "postcode": "S8 8UB",
+    "address": "Windsor Road, Heeley, Sheffield S8 8UB",
+    "lat": 53.356985,
+    "lng": -1.477988,
+    "url": "https://www.easyliveauction.com/auctioneers/sheffieldauctiongallery/"
+  },
+  "Shoulers Auctions": {
+    "postcode": "LE13 1QF",
+    "address": "County Chambers, Kings Road, Melton Mowbray LE13 1QF",
+    "lat": 52.766757,
+    "lng": -0.879077,
+    "url": "https://www.easyliveauction.com/auctioneers/shoulerandson/"
+  },
+  "Sloane Street Auctions": {
+    "postcode": "SW10 9PR",
+    "address": "158-164 Fulham Road, London SW10 9PR",
+    "lat": 51.48665,
+    "lng": -0.180072,
+    "url": "https://www.easyliveauction.com/auctioneers/sloanestreetauctiongalleries/"
+  },
+  "Smile Scotland": {
+    "postcode": "AB52 6QS",
+    "address": "Unit B Ryehill, Oyne, Aberdeenshire AB52 6QS",
+    "lat": 57.321366,
+    "lng": -2.55584,
+    "url": "https://www.easyliveauction.com/auctioneers/smilescotland/"
+  },
+  "Smiths Auction Room Limited": {
+    "postcode": "GL18 1DB",
+    "address": "The Old Chapel, Culver Street, Newent GL18 1DB",
+    "lat": 51.929381,
+    "lng": -2.406452,
+    "url": "https://www.easyliveauction.com/auctioneers/smithsofnewent/"
+  },
+  "South Cheshire Auctions": {
+    "postcode": "ST7 1PW",
+    "address": "Hilltop Business Park, Talke, Stoke on Trent ST7 1PW",
+    "lat": 53.078248,
+    "lng": -2.261443,
+    "url": "https://www.easyliveauction.com/auctioneers/southcheshireauctions/"
+  },
+  "South Dorsetshire Auctions": {
+    "postcode": "BH20 4BG",
+    "address": "Units 1 & 5, John's Road, Wareham BH20 4BG",
+    "lat": 50.693101,
+    "lng": -2.11578,
+    "url": "https://www.easyliveauction.com/auctioneers/southdorsetshireauctions/"
+  },
+  "Sovereign Rarities": {
+    "postcode": "W1S 2QH",
+    "address": "17-19 Maddox Street, London W1S 2QH",
+    "lat": 51.513108,
+    "lng": -0.141748,
+    "url": "https://www.easyliveauction.com/auctioneers/sovereignrarities/"
+  },
+  "Spicer's Auctioneers": {
+    "postcode": "DN14 5TB",
+    "address": "Waterways Salerooms, Dutch River Side, Goole DN14 5TB",
+    "lat": 53.695041,
+    "lng": -0.886295,
+    "url": "https://www.easyliveauction.com/auctioneers/spicersauctioneers/"
+  },
+  "Sportingold Auctions": {
+    "postcode": "S73 8HA",
+    "address": "Aldham Industrial Estate, Mitchell Road, Barnsley S73 8HA",
+    "lat": 53.53326,
+    "lng": -1.413577,
+    "url": "https://www.easyliveauction.com/auctioneers/sportingold/"
+  },
+  "Square & Compass Auctioneers": {
+    "postcode": "NN18 9EY",
+    "address": "4 Saxon Park, Saxon Way East, Corby NN18 9EY",
+    "lat": 52.464729,
+    "lng": -0.735642,
+    "url": "https://www.easyliveauction.com/auctioneers/squareandcompassauctioneers/"
+  },
+  "Stacey's Auctioneers and Valuers": {
+    "postcode": "SS6 8JQ",
+    "address": "Essex Auction Rooms, 37 Webster's Way, Rayleigh SS6 8JQ",
+    "lat": 51.586499,
+    "lng": 0.607719,
+    "url": "https://www.easyliveauction.com/auctioneers/staceysauctioneersandvaluers/"
+  },
+  "Stafford Auctions": {
+    "postcode": "ST16 3HR",
+    "address": "Browse-a-While Ltd, Astonfields Industrial Estate, Stafford ST16 3HR",
+    "lat": 52.819096,
+    "lng": -2.113751,
+    "url": "https://www.easyliveauction.com/auctioneers/staffordauctions/"
+  },
+  "Stamford Auction Rooms": {
+    "postcode": "PE9 2EX",
+    "address": "The Saleroom, Uffington Road, Stamford PE9 2EX",
+    "lat": 52.655276,
+    "lng": -0.462046,
+    "url": "https://www.easyliveauction.com/auctioneers/stamfordauctionrooms/"
+  },
+  "Stephen Fitzpatrick & Co": {
+    "postcode": "BT34 2BY",
+    "address": "Castle Keys, 18 Castle Street, Newry BT34 2BY",
+    "lat": 54.173511,
+    "lng": -6.335992,
+    "url": "https://www.easyliveauction.com/auctioneers/stephenfitzpatrickandco/"
+  },
+  "Sterling Vault Auctioneers": {
+    "postcode": "BN11 1TA",
+    "address": "Sussex Chambers, 5 Liverpool Terrace, Worthing BN11 1TA",
+    "lat": 50.810817,
+    "lng": -0.372197,
+    "url": "https://www.easyliveauction.com/auctioneers/sterlingvaultauctioneers/"
+  },
+  "Stevens Auctioneers": {
+    "postcode": "BA12 6JF",
+    "address": "Ashleigh, Castle Street, Mere, Warminster BA12 6JF",
+    "lat": 51.090183,
+    "lng": -2.272478,
+    "url": "https://www.easyliveauction.com/auctioneers/stevensauctioneers/"
+  },
+  "Stride & Son Auctions Ltd": {
+    "postcode": "PO19 1XQ",
+    "address": "Southdown House, St John's Street, Chichester PO19 1XQ",
+    "lat": 50.834565,
+    "lng": -0.775288,
+    "url": "https://www.easyliveauction.com/auctioneers/strideandson/"
+  },
+  "Stuart Auctions, Enniskillen": {
+    "postcode": "BT74 7JX",
+    "address": "Old Henry Street, Enniskillen BT74 7JX",
+    "lat": 54.344914,
+    "lng": -7.650118,
+    "url": "https://www.easyliveauction.com/auctioneers/stuartauctions/"
+  },
+  "Sullivans Auctions": {
+    "postcode": "CF48 2TD",
+    "address": "Pant Industrial Estate, Dowlais, Merthyr Tydfil CF48 2TD",
+    "lat": 51.768342,
+    "lng": -3.362839,
+    "url": "https://www.easyliveauction.com/auctioneers/sullivansauctions/"
+  },
+  "Summersgills": {
+    "postcode": "YO61 3FS",
+    "address": "Roxby Business Park, York Road, Easingwold YO61 3FS",
+    "lat": 54.112961,
+    "lng": -1.194568,
+    "url": "https://www.easyliveauction.com/auctioneers/summergills/"
+  },
+  "Sunbury Auctions": {
+    "postcode": "TW12 3QD",
+    "address": "Old Farm Stables, Oak Avenue, Hampton TW12 3QD",
+    "lat": 51.429388,
+    "lng": -0.385918,
+    "url": "https://www.easyliveauction.com/auctioneers/sunburyauctions/"
+  },
+  "Surfleet Auctioneers Limited": {
+    "postcode": "EX36 3AZ",
+    "address": "Griffins Yard, North Road, South Molton EX36 3AZ",
+    "lat": 51.02078,
+    "lng": -3.837252,
+    "url": "https://www.easyliveauction.com/auctioneers/surfleetauctioneers/"
+  },
+  "Surrey Auctions Ltd": {
+    "postcode": "GU28 0AP",
+    "address": "The Studio, Golden Square, Petworth GU28 0AP",
+    "lat": 50.985633,
+    "lng": -0.610038,
+    "url": "https://www.easyliveauction.com/auctioneers/surreyauctions/"
+  },
+  "Sutton Hill Farm Country Auctions": {
+    "postcode": "LE9 6EY",
+    "address": "Coventry Road, Broughton Astley, Leicester LE9 6EY",
+    "lat": 52.546305,
+    "lng": -1.241142,
+    "url": "https://www.easyliveauction.com/auctioneers/suttonhillcountryauctions/"
+  },
+  "Swan Fine Art": {
+    "postcode": "OX9 7AB",
+    "address": "High Street, Tetsworth, Oxfordshire OX9 7AB",
+    "lat": 51.710289,
+    "lng": -1.006764,
+    "url": "https://www.easyliveauction.com/auctioneers/swanfineart/"
+  },
+  "T&T Auctions": {
+    "postcode": "TN3 9JR",
+    "address": "New Barn, The Estate Yard, Eridge Green, Tunbridge Wells TN3 9JR",
+    "lat": 51.100058,
+    "lng": 0.22434,
+    "url": "https://www.easyliveauction.com/auctioneers/tandtauctions/"
+  },
+  "Tayler and Fletcher": {
+    "postcode": "GL54 2AP",
+    "address": "London House, High Street, Bourton-on-the-Water GL54 2AP",
+    "lat": 51.88535,
+    "lng": -1.759008,
+    "url": "https://www.easyliveauction.com/auctioneers/taylerandfletcher/"
+  },
+  "Taylors Auctions (Montrose) Ltd": {
+    "postcode": "DD10 9PB",
+    "address": "Brent Avenue, Montrose DD10 9PB",
+    "lat": 56.734624,
+    "lng": -2.467582,
+    "url": "https://www.easyliveauction.com/auctioneers/taylorsmontrose/"
+  },
+  "Terry's Sports Auctions": {
+    "postcode": "NN11 4PT",
+    "address": "138 The Stour, Daventry NN11 4PT",
+    "lat": 52.251333,
+    "lng": -1.177037,
+    "url": "https://www.easyliveauction.com/auctioneers/terryssportsauctions/"
+  },
+  "The Auction Room London": {
+    "postcode": "TW1 4BN",
+    "address": "136 Heath Road, Twickenham TW1 4BN",
+    "lat": 51.445489,
+    "lng": -0.336755,
+    "url": "https://www.easyliveauction.com/auctioneers/theauctionroomlondon/"
+  },
+  "The Canterbury Auction Galleries": {
+    "postcode": "CT2 8AN",
+    "address": "40 Station Road West, Canterbury CT2 8AN",
+    "lat": 51.283701,
+    "lng": 1.07584,
+    "url": "https://www.easyliveauction.com/auctioneers/thecanterburyauctiongalleries/"
+  },
+  "The Coinery": {
+    "postcode": "LS9 0SG",
+    "address": "Unit 10 Cross Green Approach, Leeds LS9 0SG",
+    "lat": 53.785622,
+    "lng": -1.512045,
+    "url": "https://www.easyliveauction.com/auctioneers/thecoinery/"
+  },
+  "The Great Western Auctions Ltd": {
+    "postcode": "G14 9UY",
+    "address": "1291 Dumbarton Road, Glasgow G14 9UY",
+    "lat": 55.87486,
+    "lng": -4.340661,
+    "url": "https://www.easyliveauction.com/auctioneers/thegreatwesternauctions/"
+  },
+  "The Mill Auctions": {
+    "postcode": "BT5 5DX",
+    "address": "Unit 22, 288 Beersbridge Road, Belfast BT5 5DX",
+    "lat": 54.59293,
+    "lng": -5.890499,
+    "url": "https://www.easyliveauction.com/auctioneers/themillauctions/"
+  },
+  "The Stamp Group": {
+    "postcode": "CW9 7DR",
+    "address": "267 Middlewich Road, Northwich CW9 7DR",
+    "lat": 53.256975,
+    "lng": -2.482833,
+    "url": "https://www.easyliveauction.com/auctioneers/thestampgroup/"
+  },
+  "Thomas Watson": {
+    "postcode": "DL3 7HJ",
+    "address": "The Gallery Saleroom, Northumberland Street, Darlington DL3 7HJ",
+    "lat": 54.52289,
+    "lng": -1.558739,
+    "url": "https://www.easyliveauction.com/auctioneers/thomaswatson/"
+  },
+  "Thompson's Auctioneers": {
+    "postcode": "HG3 2BG",
+    "address": "The Dales Saleroom, Lund Lane, Killinghall, Harrogate HG3 2BG",
+    "lat": 54.016692,
+    "lng": -1.583962,
+    "url": "https://www.easyliveauction.com/auctioneers/thompsonsauctioneers/"
+  },
+  "Thomson Roddick Callan": {
+    "postcode": "EH24 9AL",
+    "address": "The Auction Centre, Carnethie Street, Rosewell EH24 9AL",
+    "lat": 55.851736,
+    "lng": -3.136373,
+    "url": "https://www.easyliveauction.com/auctioneers/thomsonroddick/"
+  },
+  "Three Bridges Auction House": {
+    "postcode": "KY11 2QQ",
+    "address": "Unit 10, Fairykirk Road, Rosyth, Dunfermline KY11 2QQ",
+    "lat": 56.034956,
+    "lng": -3.410624,
+    "url": "https://www.easyliveauction.com/auctioneers/threebridgesauctionhouse/"
+  },
+  "Tong's Auction House": {
+    "postcode": "LL14 3YR",
+    "address": "Advance Park, Park Road, Rhosymedre, Nr Wrexham LL14 3YR",
+    "lat": 52.973933,
+    "lng": -3.067421,
+    "url": "https://www.easyliveauction.com/auctioneers/tongsauctionhouse/"
+  },
+  "Tony Lester Auctions Ltd": {
+    "postcode": "CV23 9RX",
+    "address": "Unit 2 The Sidings, Birdingbury Road, Marton CV23 9RX",
+    "lat": 52.312565,
+    "lng": -1.384862,
+    "url": "https://www.easyliveauction.com/auctioneers/tonylesterauctions/"
+  },
+  "Tower Auctions": {
+    "postcode": "SY16 3AG",
+    "address": "Lion Works, Unit 1C Pool Road, Newtown, Powys SY16 3AG",
+    "lat": 52.515739,
+    "lng": -3.30202,
+    "url": "https://www.easyliveauction.com/auctioneers/towerauctions/"
+  },
+  "Transport Collector Auctions Ltd": {
+    "postcode": "CB24 5QE",
+    "address": "Unit 13, Norman Way Ind Estate, Over, Cambs CB24 5QE",
+    "lat": 52.304901,
+    "lng": 0.020806,
+    "url": "https://www.easyliveauction.com/auctioneers/transportcollectorauctions/"
+  },
+  "Trenchards Auctioneers & Valuers": {
+    "postcode": "SM1 4PP",
+    "address": "Offices 3/4, 41-45 Lind Rd, Sutton SM1 4PP",
+    "lat": 51.364639,
+    "lng": -0.186033,
+    "url": "https://www.easyliveauction.com/auctioneers/trenchards/"
+  },
+  "Trevanion": {
+    "postcode": "SY13 1RE",
+    "address": "The Joyce Building, Station Road, Whitchurch SY13 1RE",
+    "lat": 52.968253,
+    "lng": -2.676212,
+    "url": "https://www.easyliveauction.com/auctioneers/trevanionanddean/"
+  },
+  "Tring Market Auctions": {
+    "postcode": "HP23 5ED",
+    "address": "Brook Street, Tring HP23 5ED",
+    "lat": 51.795472,
+    "lng": -0.659205,
+    "url": "https://www.easyliveauction.com/auctioneers/tringmarketauctions/"
+  },
+  "TW Gaze": {
+    "postcode": "IP22 4LN",
+    "address": "Diss Auction Rooms, Roydon Road, Diss IP22 4LN",
+    "lat": 52.377708,
+    "lng": 1.104847,
+    "url": "https://www.easyliveauction.com/auctioneers/twgaze/"
+  },
+  "Tyne Valley Auctions": {
+    "postcode": "NE43 7HY",
+    "address": "Wheelbirks Farm, Stocksfield NE43 7HY",
+    "lat": 54.920228,
+    "lng": -1.926778,
+    "url": "https://www.easyliveauction.com/auctioneers/tynevalleyauctions/"
+  },
+  "UK Militaria Auctions": {
+    "postcode": "NG1 5FD",
+    "address": "80 Derby Road, Nottingham NG1 5FD",
+    "lat": 52.955413,
+    "lng": -1.158317,
+    "url": "https://www.easyliveauction.com/auctioneers/ukmilitaria/"
+  },
+  "UK Toy & Model Auctions Ltd": {
+    "postcode": "CW2 5HW",
+    "address": "69 Ashcroft Avenue, Shavington, Crewe CW2 5HW",
+    "lat": 53.059278,
+    "lng": -2.451285,
+    "url": "https://www.easyliveauction.com/auctioneers/uktoyandmodelauctions/"
+  },
+  "Unique Auctions House": {
+    "postcode": "LN6 3UA",
+    "address": "Vincent Court, Turnstone Road, Teal Park, Lincoln LN6 3UA",
+    "lat": 53.1984,
+    "lng": -0.61287,
+    "url": "https://www.easyliveauction.com/auctioneers/uniqueauctions/"
+  },
+  "Universal Philatelic Auctions": {
+    "postcode": "GL54 3HE",
+    "address": "4 The Old Coalyard, West End, Northleach GL54 3HE",
+    "lat": 51.832037,
+    "lng": -1.840616,
+    "url": "https://www.easyliveauction.com/auctioneers/universalphilatelicauctions/"
+  },
+  "V & P Auctioneers": {
+    "postcode": "KT19 8DA",
+    "address": "3 High Street, Epsom KT19 8DA",
+    "lat": 51.333906,
+    "lng": -0.264637,
+    "url": "https://www.easyliveauction.com/auctioneers/vpauctioneers/"
+  },
+  "Viewback Auctions Omagh": {
+    "postcode": "BT79 0QP",
+    "address": "57 Killadroy Road, Tyrone BT79 0QP",
+    "lat": 54.514379,
+    "lng": -7.187361,
+    "url": "https://www.easyliveauction.com/auctioneers/viewbackauctionsomagh/"
+  },
+  "Wallis & Wallis": {
+    "postcode": "BN7 2YJ",
+    "address": "Unit 3 Artisan House, Brooks Road, Lewes BN7 2YJ",
+    "lat": 50.877952,
+    "lng": 0.015668,
+    "url": "https://www.easyliveauction.com/auctioneers/wallisandwallis/"
+  },
+  "Walton & Walton": {
+    "postcode": "BB12 0NX",
+    "address": "Susan Mill, Junction Street, Burnley BB12 0NX",
+    "lat": 53.794061,
+    "lng": -2.259336,
+    "url": "https://www.easyliveauction.com/auctioneers/waltonandwalton/"
+  },
+  "Warren and Wignall Auctioneers": {
+    "postcode": "PR26 8PH",
+    "address": "The Mill, Earnshaw Bridge, Leyland PR26 8PH",
+    "lat": 53.701587,
+    "lng": -2.712679,
+    "url": "https://www.easyliveauction.com/auctioneers/warrenwignall/"
+  },
+  "Warrington & Northwich Auctioneers & Valuers": {
+    "postcode": "WA5 7TP",
+    "address": "551 Europa Boulevard, Westbrook, Warrington WA5 7TP",
+    "lat": 53.417531,
+    "lng": -2.61763,
+    "url": "https://www.easyliveauction.com/auctioneers/warringtonauctions/"
+  },
+  "Warwick & Warwick Ltd": {
+    "postcode": "CV34 5DB",
+    "address": "Chalon House, Scar Bank, Millers Road, Warwick CV34 5DB",
+    "lat": 52.291705,
+    "lng": -1.587102,
+    "url": "https://www.easyliveauction.com/auctioneers/warwickandwarwick/"
+  },
+  "Warwick Auctions Ltd": {
+    "postcode": "CV1 3JS",
+    "address": "3 Queen Victoria Road, Coventry CV1 3JS",
+    "lat": 52.40538,
+    "lng": -1.516223,
+    "url": "https://www.easyliveauction.com/auctioneers/warwickauctionsofcoventry/"
+  },
+  "Watermans Auction Rooms": {
+    "postcode": "BR8 7NU",
+    "address": "Lower Daltons Nursery, Swanley Village Road, Swanley BR8 7NU",
+    "lat": 51.403177,
+    "lng": 0.203073,
+    "url": "https://www.easyliveauction.com/auctioneers/watermansauctionrooms/"
+  },
+  "Watsons Auctions": {
+    "postcode": "TN21 8RA",
+    "address": "Burwash Road, Heathfield TN21 8RA",
+    "lat": 50.973532,
+    "lng": 0.269358,
+    "url": "https://www.easyliveauction.com/auctioneers/watsonsauctioneers/"
+  },
+  "Wellers Auctions Ltd": {
+    "postcode": "GU1 4SJ",
+    "address": "Bedford Road, Guildford GU1 4SJ",
+    "lat": 51.237566,
+    "lng": -0.578065,
+    "url": "https://www.easyliveauction.com/auctioneers/wellersauctions/"
+  },
+  "Wessex Auction Rooms": {
+    "postcode": "SN15 5LH",
+    "address": "Westbrook Farm, Draycot Cerne, Chippenham SN15 5LH",
+    "lat": 51.511877,
+    "lng": -2.10498,
+    "url": "https://www.easyliveauction.com/auctioneers/wessexauctionrooms/"
+  },
+  "Westcountry Auctions": {
+    "postcode": "TA2 6NS",
+    "address": "Courtlands Industrial Estate, Norton Fitzwarren, Taunton TA2 6NS",
+    "lat": 51.033166,
+    "lng": -3.14239,
+    "url": "https://www.easyliveauction.com/auctioneers/westcountryauctions/"
+  },
+  "Western Salerooms Ltd": {
+    "postcode": "TQ9 5XL",
+    "address": "Unit 2B Burke Road, Totnes TQ9 5XL",
+    "lat": 50.435131,
+    "lng": -3.682406,
+    "url": "https://www.easyliveauction.com/auctioneers/westernsalerooms/"
+  },
+  "Whittaker & Biggs": {
+    "postcode": "CW12 1QY",
+    "address": "The Auction Rooms, Brown Street, Congleton CW12 1QY",
+    "lat": 53.16514,
+    "lng": -2.204428,
+    "url": "https://www.easyliveauction.com/auctioneers/whittakerandbiggs/"
+  },
+  "Whitton & Laing": {
+    "postcode": "EX4 1DY",
+    "address": "32 Okehampton Street, Exeter EX4 1DY",
+    "lat": 50.718964,
+    "lng": -3.540654,
+    "url": "https://www.easyliveauction.com/auctioneers/whittonandlaing/"
+  },
+  "Whittons Auctions": {
+    "postcode": "EX14 1LX",
+    "address": "The Fine Art Auction Rooms, Dowell Street, Honiton EX14 1LX",
+    "lat": 50.800338,
+    "lng": -3.194686,
+    "url": "https://www.easyliveauction.com/auctioneers/whittonsauctions/"
+  },
+  "Wilfords Auctioneers": {
+    "postcode": "NN8 1NB",
+    "address": "74-76 Midland Road, Wellingborough NN8 1NB",
+    "lat": 52.301083,
+    "lng": -0.684957,
+    "url": "https://www.easyliveauction.com/auctioneers/wilfordsauctioneers/"
+  },
+  "Willingham Auctions": {
+    "postcode": "CB24 5ES",
+    "address": "25 High Street, Willingham, Cambridge CB24 5ES",
+    "lat": 52.312508,
+    "lng": 0.056215,
+    "url": "https://www.easyliveauction.com/auctioneers/willinghamauctions/"
+  },
+  "Wimbledon Auctions": {
+    "postcode": "SW18 4NJ",
+    "address": "Unit 7 Glenville Mews, Southfields, London SW18 4NJ",
+    "lat": 51.449319,
+    "lng": -0.195589,
+    "url": "https://www.easyliveauction.com/auctioneers/wimbledonauctions/"
+  },
+  "Wincanton Auctions Ltd": {
+    "postcode": "BA9 9EB",
+    "address": "Bennetts Mead, Southgate Road, Wincanton BA9 9EB",
+    "lat": 51.051337,
+    "lng": -2.413394,
+    "url": "https://www.easyliveauction.com/auctioneers/wincantonauctions/"
+  },
+  "Windsor Auctions": {
+    "postcode": "SL4 1SE",
+    "address": "Unit 18 B Vansittart Estate, Windsor SL4 1SE",
+    "lat": 51.483398,
+    "lng": -0.616826,
+    "url": "https://www.easyliveauction.com/auctioneers/windsorauctions/"
+  },
+  "Wingetts Auctioneers": {
+    "postcode": "LL13 8DH",
+    "address": "29 Holt Street, Wrexham LL13 8DH",
+    "lat": 53.047091,
+    "lng": -2.990705,
+    "url": "https://www.easyliveauction.com/auctioneers/wingetts/"
+  },
+  "Witham Auctions": {
+    "postcode": "CM8 1BA",
+    "address": "The Sale Room, 132 Newland Street, Witham CM8 1BA",
+    "lat": 51.797633,
+    "lng": 0.637001,
+    "url": "https://www.easyliveauction.com/auctioneers/withamauctions/"
+  },
+  "Wolverhampton Auction Rooms Ltd": {
+    "postcode": "WV1 4JL",
+    "address": "No 1 Clarence Street, Wolverhampton WV1 4JL",
+    "lat": 52.585696,
+    "lng": -2.132668,
+    "url": "https://www.easyliveauction.com/auctioneers/wolverhamptonauctionrooms/"
+  },
+  "Wombell's Auctioneers LLP": {
+    "postcode": "YO26 6QT",
+    "address": "The Auction Gallery, Northminster Business Park, Upper Poppleton, York YO26 6QT",
+    "lat": 53.968363,
+    "lng": -1.152235,
+    "url": "https://www.easyliveauction.com/auctioneers/wombellsauctioneers/"
+  },
+  "Wotton Auction Rooms": {
+    "postcode": "GL12 7EB",
+    "address": "Tabernacle Road, Wotton-under-Edge GL12 7EB",
+    "lat": 51.639618,
+    "lng": -2.353752,
+    "url": "https://www.easyliveauction.com/auctioneers/wottonauctionrooms/"
+  },
+  "Wye Valley Auctions": {
+    "postcode": "HR2 6LR",
+    "address": "5J Ramsden Road, Hereford HR2 6LR",
+    "lat": 52.035634,
+    "lng": -2.688872,
+    "url": "https://www.easyliveauction.com/auctioneers/wyevalleyauctions/"
+  },
+  "Yeovil Auctions": {
+    "postcode": "BA20 1HG",
+    "address": "Court Ash, Yeovil BA20 1HG",
+    "lat": 50.943008,
+    "lng": -2.63177,
+    "url": "https://www.easyliveauction.com/auctioneers/yeovilauctionrooms/"
+  },
+  "Yorkshire Auctions": {
+    "postcode": "HD7 6LS",
+    "address": "11C Holme Mills, West Slaithwaite Road, Huddersfield HD7 6LS",
+    "lat": 53.613365,
+    "lng": -1.905581,
+    "url": "https://www.easyliveauction.com/auctioneers/yorkshireauctions/"
+  },
+  "Yorkshire Stamp Auctions": {
+    "postcode": "YO43 3GL",
+    "address": "Market Weighton Business Centre, York Road, Market Weighton YO43 3GL",
+    "lat": 53.867311,
+    "lng": -0.675326,
+    "url": "https://www.easyliveauction.com/auctioneers/yorkshirestampauctions/"
+  },
+  "Anderson & Garland Ltd. Newcastle": {
+    "postcode": "NE5 1BF",
+    "address": "Newcastle Upon Tyne NE5 1BF",
+    "lat": 55.001256,
+    "lng": -1.695178,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/a/anderson-and-garland"
+  },
+  "Anglia Modern Car Auctions": {
+    "postcode": "PE30 4NB",
+    "address": "King's Lynn PE30 4NB",
+    "lat": 52.734281,
+    "lng": 0.412706,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/a/anglia-modern-car-auctions"
+  },
+  "Anthemion Auctions": {
+    "postcode": "CF23 9AB",
+    "address": "Cardiff CF23 9AB",
+    "lat": 51.497669,
+    "lng": -3.144747,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/a/anthemion-auctions"
+  },
+  "Ashley Waller Auctioneers": {
+    "postcode": "SK11 9DU",
+    "address": "Lower Withington, Cheshire SK11 9DU",
+    "lat": 53.229718,
+    "lng": -2.297207,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/a/ashley-waller"
+  },
+  "Azca Auctions": {
+    "postcode": "W6 7DJ",
+    "address": "London W6 7DJ",
+    "lat": 51.493303,
+    "lng": -0.220994,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/a/azca-auctions"
+  },
+  "BUDDS (formerly Graham Budd Auctions)": {
+    "postcode": "G1 1UH",
+    "address": "Glasgow G1 1UH",
+    "lat": 55.859596,
+    "lng": -4.248863,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/b/budds"
+  },
+  "Barry L Hawkins": {
+    "postcode": "PE38 9NL",
+    "address": "Downham Market PE38 9NL",
+    "lat": 52.604565,
+    "lng": 0.379725,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/b/barry-l-hawkins"
+  },
+  "Bellmans": {
+    "postcode": "RH14 0AZ",
+    "address": "West Sussex RH14 0AZ",
+    "lat": 51.03459,
+    "lng": -0.488338,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/b/bellmans"
+  },
+  "Bishop & Miller Auctioneers Ltd": {
+    "postcode": "IP14 5AH",
+    "address": "Stowmarket IP14 5AH",
+    "lat": 52.192477,
+    "lng": 1.00331,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/b/bishop-and-miller"
+  },
+  "Bolton Auction Rooms": {
+    "postcode": "BL1 4AL",
+    "address": "Bolton BL1 4AL",
+    "lat": 53.581392,
+    "lng": -2.438704,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/b/bolton-auction-rooms"
+  },
+  "Bonhams": {
+    "postcode": "SW7 1HH",
+    "address": "London SW7 1HH",
+    "lat": 51.499319,
+    "lng": -0.166111,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/b/bonhams"
+  },
+  "Brighton and Hove Auctions": {
+    "postcode": "BN2 6DB",
+    "address": "Brighton BN2 6DB",
+    "lat": 50.835652,
+    "lng": -0.081765,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/b/brighton-and-hove-auctions"
+  },
+  "British Bespoke Auctions": {
+    "postcode": "WR12 7HZ",
+    "address": "Nr Broadway WR12 7HZ",
+    "lat": 52.051891,
+    "lng": -1.918893,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/b/british-bespoke-auctions"
+  },
+  "C & T Auctioneers and Valuers Ltd - Live": {
+    "postcode": "TN26 2LF",
+    "address": "Kenardington TN26 2LF",
+    "lat": 51.061334,
+    "lng": 0.815212,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/c/c-and-t-auctioneers-and-valuers"
+  },
+  "Catherine Southon Auctioneers & Valuers": {
+    "postcode": "BR7 5AB",
+    "address": "Bromley BR7 5AB",
+    "lat": 51.416732,
+    "lng": 0.06876,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/c/catherine-southon-auctioneers-and-valuers"
+  },
+  "Charles Taylor Auctioneers": {
+    "postcode": "M50 2NP",
+    "address": "Manchester M50 2NP",
+    "lat": 53.480302,
+    "lng": -2.29825,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/c/charles-taylor-auctioneers"
+  },
+  "Cheffins": {
+    "postcode": "CB1 7EA",
+    "address": "Cambridge CB1 7EA",
+    "lat": 52.19091,
+    "lng": 0.138649,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/c/cheffins"
+  },
+  "Chiswick Auctions": {
+    "postcode": "W3 8DH",
+    "address": "Chiswick W3 8DH",
+    "lat": 51.501027,
+    "lng": -0.273931,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/c/chiswick-auctions"
+  },
+  "Clarke and Simpson Auctions": {
+    "postcode": "IP13 0PS",
+    "address": "Nr. Wickham Market IP13 0PS",
+    "lat": 52.153548,
+    "lng": 1.393895,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/c/clarke-and-simpson"
+  },
+  "Clarkes Auctions at Semley": {
+    "postcode": "SP8 4QF",
+    "address": "Gillingham SP8 4QF",
+    "lat": 51.036226,
+    "lng": -2.273873,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/c/clarkes-auctions-at-semley"
+  },
+  "Clevedon Salerooms": {
+    "postcode": "BS21 6TT",
+    "address": "Bristol BS21 6TT",
+    "lat": 51.408332,
+    "lng": -2.844976,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/c/clevedon-salerooms"
+  },
+  "Cooper and Tanner": {
+    "postcode": "BA11 2QB",
+    "address": "Frome BA11 2QB",
+    "lat": 51.250932,
+    "lng": -2.257382,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/c/cooper-and-tanner"
+  },
+  "Cromwells Auctions Hertfordshire": {
+    "postcode": "CM21 9JX",
+    "address": "Sawbridgeworth CM21 9JX",
+    "lat": 51.812226,
+    "lng": 0.159248,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/c/cromwells-auctions"
+  },
+  "Crow's Auction Gallery": {
+    "postcode": "RH4 1SG",
+    "address": "Dorking RH4 1SG",
+    "lat": 51.234462,
+    "lng": -0.325637,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/c/crows-auction-gallery"
+  },
+  "Curated Auctions": {
+    "postcode": "SE9 3NS",
+    "address": "London SE9 3NS",
+    "lat": 51.433802,
+    "lng": 0.06664,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/c/curated-auctions"
+  },
+  "Cuttlestones Auctioneers": {
+    "postcode": "ST19 5AP",
+    "address": "Penkridge ST19 5AP",
+    "lat": 52.725744,
+    "lng": -2.118348,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/c/cuttlestones"
+  },
+  "David Duggleby Auctioneers & Valuers": {
+    "postcode": "YO11 1XN",
+    "address": "Scarborough YO11 1XN",
+    "lat": 54.28354,
+    "lng": -0.405852,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/d/david-duggleby"
+  },
+  "Denhams": {
+    "postcode": "RH12 3RZ",
+    "address": "Horsham RH12 3RZ",
+    "lat": 51.102595,
+    "lng": -0.336001,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/d/denhams"
+  },
+  "Dominic Winter Auctions": {
+    "postcode": "GL7 5UQ",
+    "address": "South Cerney GL7 5UQ",
+    "lat": 51.662346,
+    "lng": -1.923506,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/d/dominic-winter"
+  },
+  "Duggleby Stephenson of York": {
+    "postcode": "YO19 5GF",
+    "address": "York YO19 5GF",
+    "lat": 53.960047,
+    "lng": -1.008633,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/d/duggleby-stephenson-of-york"
+  },
+  "Elmwood's": {
+    "postcode": "W11 2AT",
+    "address": "London W11 2AT",
+    "lat": 51.516614,
+    "lng": -0.200469,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/e/elmwoods"
+  },
+  "Ewbank's": {
+    "postcode": "GU23 7LN",
+    "address": "Woking GU23 7LN",
+    "lat": 51.296895,
+    "lng": -0.492584,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/e/ewbanks"
+  },
+  "Excalibur Auctions Ltd": {
+    "postcode": "WD4 8FR",
+    "address": "Kings Langley WD4 8FR",
+    "lat": 51.72224,
+    "lng": -0.432617,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/e/excalibur-auctions"
+  },
+  "Fellows": {
+    "postcode": "B18 6JA",
+    "address": "Birmingham B18 6JA",
+    "lat": 52.487944,
+    "lng": -1.916861,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/f/fellows"
+  },
+  "Flints Auctions Ltd": {
+    "postcode": "RG19 4EP",
+    "address": "Thatcham RG19 4EP",
+    "lat": 51.400001,
+    "lng": -1.267258,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/f/flints-auctions"
+  },
+  "Forum Auctions": {
+    "postcode": "SW8 3NS",
+    "address": "London SW8 3NS",
+    "lat": 51.476059,
+    "lng": -0.122034,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/f/forum-auctions"
+  },
+  "Gerrards Auction Rooms": {
+    "postcode": "FY8 2AE",
+    "address": "Lytham St Annes FY8 2AE",
+    "lat": 53.752385,
+    "lng": -3.031613,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/g/gerrards"
+  },
+  "Gildings Auctioneers": {
+    "postcode": "LE16 7DE",
+    "address": "Market Harborough LE16 7DE",
+    "lat": 52.479773,
+    "lng": -0.919889,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/g/gildings"
+  },
+  "Golding Young & Mawer": {
+    "postcode": "NG31 7AA",
+    "address": "Grantham NG31 7AA",
+    "lat": 52.906082,
+    "lng": -0.641456,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/g/golding-young-and-mawer"
+  },
+  "Gorringes": {
+    "postcode": "BN7 2PD",
+    "address": "Lewes BN7 2PD",
+    "lat": 50.878524,
+    "lng": 0.01012,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/g/gorringes"
+  },
+  "H&H Classics Limited": {
+    "postcode": "MK45 2JQ",
+    "address": "Bedford MK45 2JQ",
+    "lat": 52.029009,
+    "lng": -0.472988,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/h/h-and-h-classics"
+  },
+  "Hamilton Auction House": {
+    "postcode": "ML3 6BJ",
+    "address": "Hamilton ML3 6BJ",
+    "lat": 55.777285,
+    "lng": -4.037527,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/h/hamilton-auction-house"
+  },
+  "Hans International Auction Co. Ltd": {
+    "postcode": "CR2 6EQ",
+    "address": "London CR2 6EQ",
+    "lat": 51.349208,
+    "lng": -0.083026,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/h/hans-international"
+  },
+  "Hansons Auctioneers and Valuers": {
+    "postcode": "DE65 6LS",
+    "address": "Etwall DE65 6LS",
+    "lat": 52.877882,
+    "lng": -1.614847,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/h/hansons"
+  },
+  "Harper Field": {
+    "postcode": "GL10 2LN",
+    "address": "Stonehouse GL10 2LN",
+    "lat": 51.738857,
+    "lng": -2.279186,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/h/harper-field"
+  },
+  "Historics Auctioneers": {
+    "postcode": "SL5 9ED",
+    "address": "Ascot SL5 9ED",
+    "lat": 51.408775,
+    "lng": -0.640066,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/h/historics"
+  },
+  "Horners Valuers & Auctioneers": {
+    "postcode": "NR13 3BY",
+    "address": "Acle NR13 3BY",
+    "lat": 52.632985,
+    "lng": 1.535617,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/h/horners"
+  },
+  "Iconic Auctioneers": {
+    "postcode": "NN6 0BN",
+    "address": "Northampton NN6 0BN",
+    "lat": 52.396942,
+    "lng": -0.961499,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/i/iconic-auctioneers"
+  },
+  "JG Auction": {
+    "postcode": "W8 4BY",
+    "address": "London W8 4BY",
+    "lat": 51.50378,
+    "lng": -0.193942,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/j/jg-auction"
+  },
+  "JS Fine Art Auctioneers & Valuers": {
+    "postcode": "OX15 4AQ",
+    "address": "Banbury OX15 4AQ",
+    "lat": 52.035695,
+    "lng": -1.359154,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/j/js-fine-art"
+  },
+  "Keys Fine Art Auctioneers": {
+    "postcode": "NR11 6JA",
+    "address": "Aylsham NR11 6JA",
+    "lat": 52.792049,
+    "lng": 1.239949,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/k/keys-fine-art-auctioneers"
+  },
+  "Kidson-Trigg Chartered Surveyors and Auctioneers": {
+    "postcode": "SN6 7PZ",
+    "address": "Nr Highworth SN6 7PZ",
+    "lat": 51.612473,
+    "lng": -1.680271,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/k/kidson-trigg"
+  },
+  "Lacy Scott & Knight": {
+    "postcode": "IP33 3AA",
+    "address": "Bury St Edmunds IP33 3AA",
+    "lat": 52.254534,
+    "lng": 0.720424,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/l/lacy-scott-and-knight"
+  },
+  "Laidlaw Auctioneers & Valuers": {
+    "postcode": "CA1 2EF",
+    "address": "Carlisle CA1 2EF",
+    "lat": 54.895111,
+    "lng": -2.93493,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/l/laidlaw"
+  },
+  "Lawrences Auctioneers of Crewkerne": {
+    "postcode": "TA18 8AB",
+    "address": "Crewkerne TA18 8AB",
+    "lat": 50.882206,
+    "lng": -2.791606,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/l/lawrences-of-crewkerne"
+  },
+  "Lindsay Burns & Company": {
+    "postcode": "PH2 8JA",
+    "address": "Perth PH2 8JA",
+    "lat": 56.390046,
+    "lng": -3.390434,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/l/lindsay-burns"
+  },
+  "Locke & England": {
+    "postcode": "CV32 4RT",
+    "address": "Leamington Spa CV32 4RT",
+    "lat": 52.291705,
+    "lng": -1.536459,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/l/locke-and-england"
+  },
+  "Lyon & Turnbull": {
+    "postcode": "EH1 3RR",
+    "address": "Edinburgh EH1 3RR",
+    "lat": 55.951432,
+    "lng": -3.192523,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/l/lyon-and-turnbull"
+  },
+  "M & M Specialist Auctioneers": {
+    "postcode": "PE11 3SW",
+    "address": "Spalding PE11 3SW",
+    "lat": 52.801981,
+    "lng": -0.144301,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/m/m-and-m-specialist-auctioneers"
+  },
+  "Mallams": {
+    "postcode": "OX1 2EB",
+    "address": "Oxford OX1 2EB",
+    "lat": 51.752246,
+    "lng": -1.257609,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/m/mallams"
+  },
+  "Mander Auctioneers": {
+    "postcode": "CO10 0QX",
+    "address": "Newton Green CO10 0QX",
+    "lat": 52.027882,
+    "lng": 0.761019,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/m/mander-auctioneers"
+  },
+  "McTear's": {
+    "postcode": "G51 4EU",
+    "address": "Glasgow G51 4EU",
+    "lat": 55.862817,
+    "lng": -4.369743,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/m/mctears"
+  },
+  "Mendip Auction Rooms": {
+    "postcode": "BA3 4UL",
+    "address": "Binegar BA3 4UL",
+    "lat": 51.232031,
+    "lng": -2.570168,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/m/mendip-auction-rooms"
+  },
+  "Moore Allen & Innocent": {
+    "postcode": "GL7 5RH",
+    "address": "Cirencester GL7 5RH",
+    "lat": 51.710327,
+    "lng": -1.966789,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/m/moore-allen-and-innocent"
+  },
+  "Noonans Mayfair": {
+    "postcode": "W1J 8BQ",
+    "address": "London W1J 8BQ",
+    "lat": 51.504628,
+    "lng": -0.142578,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/n/noonans"
+  },
+  "Oberon Auctions": {
+    "postcode": "LS19 7EA",
+    "address": "Leeds LS19 7EA",
+    "lat": 53.863306,
+    "lng": -1.69151,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/o/oberon-auctions"
+  },
+  "Olympia Auctions": {
+    "postcode": "W14 0PD",
+    "address": "London W14 0PD",
+    "lat": 51.494319,
+    "lng": -0.206469,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/o/olympia-auctions"
+  },
+  "Omega Auctions": {
+    "postcode": "WA12 8DN",
+    "address": "Newton-Le-Willows WA12 8DN",
+    "lat": 53.447984,
+    "lng": -2.643216,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/o/omega-auctions"
+  },
+  "PLAKAS": {
+    "postcode": "W1S 2FJ",
+    "address": "London W1S 2FJ",
+    "lat": 51.511308,
+    "lng": -0.141474,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/p/plakas"
+  },
+  "Plymouth Auction Rooms": {
+    "postcode": "PL4 0SF",
+    "address": "Plymouth PL4 0SF",
+    "lat": 50.370174,
+    "lng": -4.135193,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/p/plymouth-auction-rooms"
+  },
+  "Pro Auction Limited": {
+    "postcode": "GL6 8GA",
+    "address": "Stroud GL6 8GA",
+    "lat": 51.747282,
+    "lng": -2.280286,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/p/pro-auction"
+  },
+  "Propstore": {
+    "postcode": "WD3 6EP",
+    "address": "Rickmansworth WD3 6EP",
+    "lat": 51.649482,
+    "lng": -0.476748,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/p/propstore"
+  },
+  "Railtons": {
+    "postcode": "NE71 6SN",
+    "address": "Wooler NE71 6SN",
+    "lat": 55.543786,
+    "lng": -2.011892,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/r/railtons"
+  },
+  "Ramsay Cornish Auctioneers & Valuers": {
+    "postcode": "EH6 5HE",
+    "address": "Edinburgh EH6 5HE",
+    "lat": 55.977096,
+    "lng": -3.168821,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/r/ramsay-cornish"
+  },
+  "Reeman Dansie": {
+    "postcode": "CO4 9HU",
+    "address": "Colchester CO4 9HU",
+    "lat": 51.923501,
+    "lng": 0.929401,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/r/reeman-dansie"
+  },
+  "Rogers Jones & Co": {
+    "postcode": "CH4 8SX",
+    "address": "Saltney CH4 8SX",
+    "lat": 53.167561,
+    "lng": -2.900576,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/r/rogers-jones"
+  },
+  "Rowley's Fine Art Auctioneers & Valuers": {
+    "postcode": "CB6 1AH",
+    "address": "Ely CB6 1AH",
+    "lat": 52.400562,
+    "lng": 0.271804,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/r/rowleys"
+  },
+  "Southams Auctioneers": {
+    "postcode": "MK40 3JR",
+    "address": "Bedford MK40 3JR",
+    "lat": 52.137604,
+    "lng": -0.465543,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/s/southams"
+  },
+  "Southgate Auction Rooms": {
+    "postcode": "N14 6LD",
+    "address": "London N14 6LD",
+    "lat": 51.633984,
+    "lng": -0.113073,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/s/southgate-auction-rooms"
+  },
+  "Special Auction Services": {
+    "postcode": "RG14 5RL",
+    "address": "Newbury RG14 5RL",
+    "lat": 51.379601,
+    "lng": -1.320398,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/s/special-auction-services"
+  },
+  "St James's Auctions": {
+    "postcode": "SW1Y 4AA",
+    "address": "London SW1Y 4AA",
+    "lat": 51.506882,
+    "lng": -0.138048,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/s/st-james-auctions"
+  },
+  "Stanley Gibbons Baldwin's Auctions": {
+    "postcode": "WC2R 0LP",
+    "address": "London WC2R 0LP",
+    "lat": 51.511384,
+    "lng": -0.121258,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/s/stanley-gibbons-baldwins"
+  },
+  "Sworders": {
+    "postcode": "CM24 8GE",
+    "address": "Stansted Mountfitchet CM24 8GE",
+    "lat": 51.900398,
+    "lng": 0.199483,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/s/sworders"
+  },
+  "Tate Ward": {
+    "postcode": "E1 6QL",
+    "address": "London E1 6QL",
+    "lat": 51.519482,
+    "lng": -0.069573,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/t/tate-ward"
+  },
+  "Tennants Auctioneers": {
+    "postcode": "DL8 5SG",
+    "address": "Leyburn DL8 5SG",
+    "lat": 54.310966,
+    "lng": -1.822093,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/t/tennants"
+  },
+  "Thomas N. Miller": {
+    "postcode": "NE6 2UN",
+    "address": "Newcastle-Upon-Tyne NE6 2UN",
+    "lat": 54.975788,
+    "lng": -1.565198,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/t/thomas-n-miller"
+  },
+  "Thomson Roddick Auctioneers & Valuers": {
+    "postcode": "CA2 7NA",
+    "address": "Carlisle CA2 7NA",
+    "lat": 54.888691,
+    "lng": -2.944892,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/t/thomson-roddick"
+  },
+  "TimeLine Auctions Limited": {
+    "postcode": "CO12 4DN",
+    "address": "Harwich CO12 4DN",
+    "lat": 51.945168,
+    "lng": 1.286497,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/t/timeline-auctions"
+  },
+  "Toovey's": {
+    "postcode": "RH20 3BS",
+    "address": "Washington RH20 3BS",
+    "lat": 50.918823,
+    "lng": -0.398437,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/t/tooveys"
+  },
+  "Truro Auction Centre": {
+    "postcode": "TR16 5PZ",
+    "address": "Redruth TR16 5PZ",
+    "lat": 50.234082,
+    "lng": -5.221946,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/t/truro-auction-centre"
+  },
+  "Vectis Auctions Ltd": {
+    "postcode": "TS17 9JZ",
+    "address": "Stockton-On-Tees TS17 9JZ",
+    "lat": 54.560891,
+    "lng": -1.322817,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/v/vectis"
+  },
+  "W&H Peacock Auctioneers & Valuers": {
+    "postcode": "PE19 1AJ",
+    "address": "St Neots PE19 1AJ",
+    "lat": 52.228729,
+    "lng": -0.257548,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/w/w-and-h-peacock"
+  },
+  "WB & Sons Auctioneers": {
+    "postcode": "NE12 6DX",
+    "address": "Newcastle Upon Tyne NE12 6DX",
+    "lat": 55.009875,
+    "lng": -1.554392,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/w/wb-and-sons"
+  },
+  "Whittons Auctioneers & Valuers": {
+    "postcode": "EX14 1LX",
+    "address": "Honiton EX14 1LX",
+    "lat": 50.800338,
+    "lng": -3.194686,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/w/whittons"
+  },
+  "Wilson55 Auctioneers & Valuers": {
+    "postcode": "CW5 5DG",
+    "address": "Nantwich CW5 5DG",
+    "lat": 53.063784,
+    "lng": -2.521285,
+    "url": "https://www.the-saleroom.com/en-gb/auction-houses/w/wilson55"
+  },
+  "South Dublin Auction": {
+    "postcode": "D12 V2YX",
+    "location": "Walkinstown, Dublin 12",
+    "address": "Unit 4 Finches Park, Long Mile Road"
+  },
+  "Henry's Auctions (Altona)": {
+    "postcode": "BT28 1RW",
+    "address": "Rosevale Industrial Estate, Lisburn BT28 1RW",
+    "lat": 54.506305,
+    "lng": -6.076325,
+    "url": "https://www.easyliveauction.com/auctioneers/altonaauctions/"
+  },
+  "Alastair Gibson Auctions": {
+    "postcode": "",
+    "location": "International",
+    "url": "https://www.easyliveauction.com/auctioneers/alastairgibsonauctions/"
+  },
+  "Antiques Ireland": {
+    "postcode": "",
+    "location": "Ireland",
+    "url": "https://www.easyliveauction.com/auctioneers/cityauctionrooms/"
+  },
+  "Mullen's Auctioneers": {
+    "postcode": "",
+    "location": "Ireland",
+    "url": "https://www.easyliveauction.com/auctioneers/mullenslaurelpark/"
+  },
+  "Northeast Auctions": {
+    "postcode": "",
+    "location": "USA",
+    "url": "https://www.easyliveauction.com/auctioneers/northeastauctions/"
+  },
+  "O'Donovan & Associates": {
+    "postcode": "",
+    "location": "Ireland",
+    "url": "https://www.easyliveauction.com/auctioneers/odonovan/"
+  },
+  "Sean Eacrett Auctions": {
+    "postcode": "",
+    "location": "Ireland",
+    "url": "https://www.easyliveauction.com/auctioneers/seaneacrettauctions/"
+  },
+  "Usher Auctions": {
+    "postcode": "",
+    "location": "Ireland",
+    "url": "https://www.easyliveauction.com/auctioneers/oliverusherauctioneersandvaluers/"
+  },
+  "Victor Mitchell Auctioneers": {
+    "postcode": "",
+    "location": "Ireland",
+    "url": "https://www.easyliveauction.com/auctioneers/victormitchellsauctioneers/"
+  },
+  "Wannenes Art Auctions": {
+    "postcode": "",
+    "location": "Italy",
+    "url": "https://www.easyliveauction.com/auctioneers/wannenesartauctions/"
+  }
+}

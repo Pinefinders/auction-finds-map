@@ -1,0 +1,56 @@
+# Pinefinders Auction Finds Map — GitHub Actions workflow
+# Runs daily at 04:00 UTC (= 05:00 BST) to scrape EasyLive for pine lots
+# and regenerate the combined auction-finds + map page.
+
+name: Scrape Auction Finds Map
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "scrape-auction-finds-map"
+  cancel-in-progress: true
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Run scraper
+        env:
+          REPO_DIR: ${{ github.workspace }}
+        run: python scrape_auction_finds_map.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "Pinefinders Bot"
+          git config user.email "actions@pinefinders.github.io"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Auto update: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
