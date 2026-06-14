@@ -74,14 +74,19 @@ def image_filename(url):
 def download_image(url, dest):
     if dest.exists():
         return True
-    try:
-        r = requests.get(url, headers=HEADERS, timeout=15)
-        r.raise_for_status()
-        dest.write_bytes(r.content)
-        return True
-    except Exception as e:
-        log.warning(f"Image download failed: {url}  ({e})")
-        return False
+    for attempt in range(3):
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=20)
+            r.raise_for_status()
+            dest.write_bytes(r.content)
+            return True
+        except Exception as e:
+            if attempt < 2:
+                time.sleep(2)
+                continue
+            log.warning(f"Image download failed after 3 attempts: {url}  ({e})")
+            return False
+    return False
 
 
 def parse_card(card):
