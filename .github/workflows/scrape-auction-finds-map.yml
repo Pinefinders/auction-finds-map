@@ -54,4 +54,5 @@ jobs:
             exit 0
           fi
           git commit -m "Auto update: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git pull --rebase
           git push
