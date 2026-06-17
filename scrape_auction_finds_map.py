@@ -974,6 +974,10 @@ def sweep_orphan_images(all_lots):
 
 
 def git_push(repo_dir):
+    # Under GitHub Actions the workflow handles commit/push; skip here.
+    if os.environ.get("GITHUB_ACTIONS"):
+        log.info("Git: running under GitHub Actions — workflow handles commit/push, skipping.")
+        return
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
     for cmd in [
         ["git", "-C", str(repo_dir), "add", "-A"],

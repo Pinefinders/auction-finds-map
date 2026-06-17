@@ -6,9 +6,11 @@ name: Scrape Auction Finds Map
 
 on:
   schedule:
-    # 00:00 UTC daily (01:00 BST summer) — runs early so data is ready
-    # for Ken's 09:00 check regardless of queue delays.
-    - cron: '0 0 * * *'
+    # 05:43 UTC daily — odd, off-peak minute to avoid GitHub throttling
+    # scheduled runs queued on busy slots like '0 0' (midnight). Staggered
+    # ~26 min after auction-finds (05:17) so the two don't collide.
+    # 05:43 = 06:43 BST / 05:43 GMT, well before Ken's 09:00 check.
+    - cron: '43 5 * * *'
   workflow_dispatch:
 
 permissions:
@@ -25,12 +27,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
           cache: pip
