@@ -6,7 +6,9 @@ name: Scrape Auction Finds Map
 
 on:
   schedule:
-    - cron: '0 4 * * *'
+    # 00:00 UTC daily (01:00 BST summer) — runs early so data is ready
+    # for Ken's 09:00 check regardless of queue delays.
+    - cron: '0 0 * * *'
     - cron: '30 4 * * *'
   workflow_dispatch:
 
