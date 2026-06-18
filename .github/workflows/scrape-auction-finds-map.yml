@@ -6,11 +6,15 @@ name: Scrape Auction Finds Map
 
 on:
   schedule:
-    # 05:43 UTC daily — odd, off-peak minute to avoid GitHub throttling
-    # scheduled runs queued on busy slots like '0 0' (midnight). Staggered
-    # ~26 min after auction-finds (05:17) so the two don't collide.
-    # 05:43 = 06:43 BST / 05:43 GMT, well before Ken's 09:00 check.
-    - cron: '43 5 * * *'
+    # GitHub's scheduled trigger is unreliable — it silently skips runs during
+    # high-load periods. Mitigation: fire at several staggered, off-peak minutes
+    # through the morning. A run that finds today's data already committed exits
+    # cheaply (see the 'already-done' guard below), so redundant fires are nearly
+    # free. Times are offset from auction-finds (05:17/06:43/08:11) so the two
+    # don't collide. Keeps the site fresh even when Ken's Mac is off/asleep.
+    - cron: '43 5 * * *'   # 06:43 BST / 05:43 GMT
+    - cron: '57 6 * * *'   # 07:57 BST / 06:57 GMT
+    - cron: '29 8 * * *'   # 09:29 BST / 08:29 GMT (just after Ken's 09:00 check)
   workflow_dispatch:
 
 permissions:
@@ -31,23 +35,43 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Skip if already updated today
+        id: guard
+        run: |
+          # If the latest commit already carries today's UTC date in its
+          # "Auto update" message, a run today already succeeded — skip the
+          # heavy scrape. Manual dispatches always run.
+          today="$(date -u '+%Y-%m-%d')"
+          last="$(git log -1 --pretty=%s)"
+          if [ "${{ github.event_name }}" != "workflow_dispatch" ] \
+             && printf '%s' "$last" | grep -q "Auto update: ${today}"; then
+            echo "Already updated today ($today) — skipping."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Set up Python
+        if: steps.guard.outputs.skip != 'true'
         uses: actions/setup-python@v6
         with:
           python-version: '3.11'
           cache: pip
 
       - name: Install dependencies
+        if: steps.guard.outputs.skip != 'true'
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Run scraper
+        if: steps.guard.outputs.skip != 'true'
         env:
           REPO_DIR: ${{ github.workspace }}
         run: python scrape_auction_finds_map.py
 
       - name: Commit and push changes
+        if: steps.guard.outputs.skip != 'true'
         run: |
           git config user.name "Pinefinders Bot"
           git config user.email "actions@pinefinders.github.io"
