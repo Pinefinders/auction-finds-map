@@ -463,43 +463,43 @@ def build_html(local_lots, wide_lots, seen=None, postcodes=None):
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <style>
     :root {{
-      --bg: #faf7f2;
+      --bg: #f6f7f8;
       --panel: #ffffff;
-      --ink: #2a241d;
-      --muted: #8a7e6f;
-      --accent: #a8743a;
-      --accent-soft: #f4ead8;
-      --local-bg: #fdf6e8;
-      --local-border: #d9a85a;
-      --shadow: 0 1px 3px rgba(40,30,15,0.06), 0 4px 12px rgba(40,30,15,0.05);
-      --shadow-hover: 0 4px 10px rgba(40,30,15,0.10), 0 10px 28px rgba(40,30,15,0.10);
+      --ink: #1f2933;
+      --muted: #6b7280;
+      --accent: #3a5c3b;
+      --accent-soft: #e9ece9;
+      --local-bg: #f1f5f1;
+      --local-border: #3a5c3b;
+      --shadow: 0 1px 3px rgba(20,30,40,0.05), 0 4px 12px rgba(20,30,40,0.05);
+      --shadow-hover: 0 4px 10px rgba(20,30,40,0.09), 0 10px 28px rgba(20,30,40,0.10);
       --radius: 10px;
-      --new-bg: #2c6e2c;
-      --highlight: #d9531e;
+      --new-bg: #3a5c3b;
+      --highlight: #4b6b8a;
     }}
     @media (prefers-color-scheme: dark) {{
       :root:not([data-theme="light"]) {{
-        --bg: #14110d;
-        --panel: #1f1b15;
-        --ink: #ede4d2;
-        --muted: #8a7e6f;
-        --accent: #d9a85a;
-        --accent-soft: #2a2218;
-        --local-bg: #2a2218;
-        --local-border: #d9a85a;
+        --bg: #15191c;
+        --panel: #1d2226;
+        --ink: #e6e9ec;
+        --muted: #8b95a1;
+        --accent: #7fa380;
+        --accent-soft: #262d31;
+        --local-bg: #202923;
+        --local-border: #7fa380;
         --shadow: 0 1px 3px rgba(0,0,0,0.4), 0 4px 12px rgba(0,0,0,0.3);
         --shadow-hover: 0 4px 10px rgba(0,0,0,0.5), 0 10px 28px rgba(0,0,0,0.4);
       }}
     }}
     :root[data-theme="dark"] {{
-      --bg: #14110d;
-      --panel: #1f1b15;
-      --ink: #ede4d2;
-      --muted: #8a7e6f;
-      --accent: #d9a85a;
-      --accent-soft: #2a2218;
-      --local-bg: #2a2218;
-      --local-border: #d9a85a;
+      --bg: #15191c;
+      --panel: #1d2226;
+      --ink: #e6e9ec;
+      --muted: #8b95a1;
+      --accent: #7fa380;
+      --accent-soft: #262d31;
+      --local-bg: #202923;
+      --local-border: #7fa380;
       --shadow: 0 1px 3px rgba(0,0,0,0.4), 0 4px 12px rgba(0,0,0,0.3);
       --shadow-hover: 0 4px 10px rgba(0,0,0,0.5), 0 10px 28px rgba(0,0,0,0.4);
     }}
@@ -594,10 +594,10 @@ def build_html(local_lots, wide_lots, seen=None, postcodes=None):
       transition: 0.15s;
     }}
     nav.jump a:hover {{ background: var(--accent); color: var(--panel); }}
-    nav.jump .today-pill {{ background: #d9531e; color: #fff; }}
-    nav.jump .today-pill:hover {{ background: #b84319; }}
+    nav.jump .today-pill {{ background: var(--highlight); color: #fff; }}
+    nav.jump .today-pill:hover {{ background: #3d5a75; }}
     nav.jump .new-pill {{ background: var(--new-bg); color: #fff; }}
-    nav.jump .new-pill:hover {{ background: #1f5a1f; }}
+    nav.jump .new-pill:hover {{ background: #2c4a2d; }}
     .new-badge {{
       position: absolute; top: 10px; left: 10px;
       background: var(--new-bg); color: #fff;
@@ -660,8 +660,8 @@ def build_html(local_lots, wide_lots, seen=None, postcodes=None):
       margin: 36px 0 0;
     }}
     #cards-area section.today-section {{
-      background: linear-gradient(180deg, rgba(217, 83, 30, 0.08), rgba(217, 83, 30, 0.02));
-      border-left: 4px solid #d9531e;
+      background: linear-gradient(180deg, rgba(75, 107, 138, 0.08), rgba(75, 107, 138, 0.02));
+      border-left: 4px solid var(--highlight);
       padding: 28px 24px 32px;
       border-radius: var(--radius);
       margin: 36px 0 0;
@@ -751,10 +751,42 @@ def build_html(local_lots, wide_lots, seen=None, postcodes=None):
       border-radius: 50%;
       box-shadow: 0 0 12px rgba(217,83,30,.6);
     }}
+    /* Timing colour bands (mirror Auction Hunter): now / this week / later / no date */
+    .pin-now    {{ background: #2c6e2c !important; box-shadow: 0 0 12px rgba(44,110,44,.65) !important; }}
+    .pin-week   {{ background: #e0b000 !important; box-shadow: 0 0 12px rgba(224,176,0,.6) !important; }}
+    .pin-later  {{ background: #b5651d !important; box-shadow: 0 0 12px rgba(181,101,29,.6) !important; }}
+    .pin-none   {{ background: #8a8a8a !important; box-shadow: 0 0 12px rgba(138,138,138,.55) !important; }}
+
+    /* ── MOBILE MAP OVERLAY ── */
+    #map-fab {{
+      display: none;
+      position: fixed; right: 16px; bottom: 16px; z-index: 1500;
+      background: var(--accent); color: #fff;
+      border: none; border-radius: 999px;
+      padding: 13px 20px; font-size: 0.9rem; font-weight: 700;
+      font-family: inherit; cursor: pointer;
+      box-shadow: 0 4px 16px rgba(40,30,15,0.28);
+    }}
+    #map-close {{
+      display: none;
+      position: absolute; right: 12px; top: 12px; z-index: 1600;
+      background: rgba(0,0,0,0.7); color: #fff;
+      border: none; border-radius: 999px;
+      padding: 9px 18px; font-size: 0.85rem; font-weight: 700;
+      font-family: inherit; cursor: pointer;
+    }}
 
     @media (max-width: 800px) {{
       #map-panel {{ display: none; }}
       #cards-area {{ padding: 0 12px 40px; }}
+      #map-fab {{ display: block; }}
+      body.map-open #map-panel {{
+        display: block;
+        position: fixed; inset: 0; z-index: 1550;
+        width: 100%; min-width: 0; border-right: none;
+      }}
+      body.map-open #map-close {{ display: block; }}
+      body.map-open #map-fab {{ display: none; }}
     }}
   </style>
 </head>
@@ -771,15 +803,16 @@ def build_html(local_lots, wide_lots, seen=None, postcodes=None):
     <a href="https://pinefinders.github.io/auction-map/" target="_blank" rel="noopener" class="map-link">🗺 Map</a>
     <button class="theme-toggle" onclick="toggleTheme()" id="themeBtn">🌙 Dark</button>
     <nav class="jump">
-      <a href="#local">📍 Local · {local_local_count}</a>
-      {f'<a class="today-pill" href="#today">🔥 UK Today · {wide_today_count}</a>' if wide_today_count else ''}
-      <a href="#uk-wide">🇬🇧 UK Later · {wide_later_count}</a>
       {f'<a class="new-pill" href="#" onclick="filterNew(); return false;">✨ {new_total} new</a>' if new_total else ''}
+      <a href="#local">📍 Local · {local_local_count}</a>
+      <a href="#uk-wide">🇬🇧 UK Later · {wide_later_count}</a>
+      {f'<a class="today-pill" href="#today">🔥 UK Today · {wide_today_count}</a>' if wide_today_count else ''}
     </nav>
   </header>
 
   <div id="main-layout">
     <div id="map-panel">
+      <button id="map-close" onclick="closeMobileMap()">✕ Close map</button>
       <div id="map"></div>
       <div class="map-label">Hover name for map location</div>
     </div>
@@ -789,6 +822,8 @@ def build_html(local_lots, wide_lots, seen=None, postcodes=None):
       {later_html}
     </div>
   </div>
+
+  <button id="map-fab" onclick="openMobileMap()">🗺 Map</button>
 
   <footer>
     Pinefinders Old Pine Furniture Warehouse · search terms: {terms_str}<br>
@@ -907,7 +942,23 @@ def build_html(local_lots, wide_lots, seen=None, postcodes=None):
       markers[pc] = m;
     }}
 
-    function highlightMarker(pc) {{
+    // Returns the timing band class for a sale-date string like "📅 Wed 1st Jul 2026 10:30am BST"
+    function saleBand(dateText) {{
+      if (!dateText) return 'pin-none';
+      const m = dateText.match(/(\\d{{1,2}})(?:st|nd|rd|th)?\\s+([A-Za-z]{{3,}})\\s+(\\d{{4}})/);
+      if (!m) return 'pin-none';
+      const months = {{jan:0,feb:1,mar:2,apr:3,may:4,jun:5,jul:6,aug:7,sep:8,oct:9,nov:10,dec:11}};
+      const mon = months[m[2].slice(0,3).toLowerCase()];
+      if (mon === undefined) return 'pin-none';
+      const sale = new Date(+m[3], mon, +m[1]);
+      const today = new Date(); today.setHours(0,0,0,0);
+      const days = Math.round((sale - today) / 86400000);
+      if (days <= 3) return 'pin-now';
+      if (days <= 14) return 'pin-week';
+      return 'pin-later';
+    }}
+
+    function highlightMarker(pc, band) {{
       if (highlightedMarker) {{
         highlightedMarker.setIcon(L.divIcon({{
           className: '',
@@ -922,7 +973,7 @@ def build_html(local_lots, wide_lots, seen=None, postcodes=None):
       const m = markers[pc];
       m.setIcon(L.divIcon({{
         className: '',
-        html: '<div class="pin-highlighted"></div>',
+        html: '<div class="pin-highlighted ' + (band || 'pin-none') + '"></div>',
         iconSize: [16, 16],
         iconAnchor: [8, 8]
       }}));
@@ -932,10 +983,13 @@ def build_html(local_lots, wide_lots, seen=None, postcodes=None):
     document.querySelectorAll('.house').forEach(el => {{
       const pcRaw = el.querySelector('.pc');
       if (!pcRaw) return;
-      const pc = pcRaw.textContent.trim().replace(/\s+/g, '').toUpperCase();
+      const pc = pcRaw.textContent.trim().replace(/\\s+/g, '').toUpperCase();
+      const card = el.closest('.card');
+      const dateEl = card ? card.querySelector('.saledate') : null;
+      const band = saleBand(dateEl ? dateEl.textContent : '');
       el.addEventListener('mouseenter', () => {{
         el.classList.add('highlighted');
-        highlightMarker(pc);
+        highlightMarker(pc, band);
       }});
       el.addEventListener('mouseleave', () => {{
         el.classList.remove('highlighted');
@@ -948,6 +1002,19 @@ def build_html(local_lots, wide_lots, seen=None, postcodes=None):
     const bounds = [[Math.min(...allLats), Math.min(...allLngs)], [Math.max(...allLats), Math.max(...allLngs)]];
     map.fitBounds(bounds, {{ padding: [30, 30] }});
     if (map.getZoom() > 8) map.setZoom(8);
+
+    // ── MOBILE MAP OVERLAY TOGGLE ──
+    function openMobileMap() {{
+      document.body.classList.add('map-open');
+      setTimeout(() => {{
+        map.invalidateSize();
+        map.fitBounds(bounds, {{ padding: [30, 30] }});
+        if (map.getZoom() > 8) map.setZoom(8);
+      }}, 60);
+    }}
+    function closeMobileMap() {{
+      document.body.classList.remove('map-open');
+    }}
   </script>
 </body>
 </html>"""
