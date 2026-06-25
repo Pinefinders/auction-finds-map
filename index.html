@@ -297,9 +297,37 @@
       box-shadow: 0 0 12px rgba(217,83,30,.6);
     }
 
+    /* ── MOBILE MAP OVERLAY ── */
+    #map-fab {
+      display: none;
+      position: fixed; right: 16px; bottom: 16px; z-index: 1500;
+      background: var(--accent); color: #fff;
+      border: none; border-radius: 999px;
+      padding: 13px 20px; font-size: 0.9rem; font-weight: 700;
+      font-family: inherit; cursor: pointer;
+      box-shadow: 0 4px 16px rgba(40,30,15,0.28);
+    }
+    #map-close {
+      display: none;
+      position: absolute; right: 12px; top: 12px; z-index: 1600;
+      background: rgba(0,0,0,0.7); color: #fff;
+      border: none; border-radius: 999px;
+      padding: 9px 18px; font-size: 0.85rem; font-weight: 700;
+      font-family: inherit; cursor: pointer;
+    }
+
     @media (max-width: 800px) {
       #map-panel { display: none; }
       #cards-area { padding: 0 12px 40px; }
+      #map-fab { display: block; }
+      /* When opened, the map panel becomes a full-screen overlay */
+      body.map-open #map-panel {
+        display: block;
+        position: fixed; inset: 0; z-index: 1550;
+        width: 100%; min-width: 0; border-right: none;
+      }
+      body.map-open #map-close { display: block; }
+      body.map-open #map-fab { display: none; }
     }
   </style>
 </head>
@@ -325,6 +353,7 @@
 
   <div id="main-layout">
     <div id="map-panel">
+      <button id="map-close" onclick="closeMobileMap()">✕ Close map</button>
       <div id="map"></div>
       <div class="map-label">Hover name for map location</div>
     </div>
@@ -7161,6 +7190,8 @@
     </div>
   </div>
 
+  <button id="map-fab" onclick="openMobileMap()">🗺 Map</button>
+
   <footer>
     Pinefinders Old Pine Furniture Warehouse · search terms: pine<br>
     <a href="https://pinefinders.github.io/auction-finds-map">pinefinders.github.io/auction-finds-map</a>
@@ -7809,6 +7840,19 @@ const PC_MAP = {
     const bounds = [[Math.min(...allLats), Math.min(...allLngs)], [Math.max(...allLats), Math.max(...allLngs)]];
     map.fitBounds(bounds, { padding: [30, 30] });
     if (map.getZoom() > 8) map.setZoom(8);
-  </script>
+
+    // ── MOBILE MAP OVERLAY TOGGLE ──
+    function openMobileMap() {
+      document.body.classList.add('map-open');
+      // Leaflet sized itself while hidden — recalc now it's visible
+      setTimeout(() => {
+        map.invalidateSize();
+        map.fitBounds(bounds, { padding: [30, 30] });
+        if (map.getZoom() > 8) map.setZoom(8);
+      }, 60);
+    }
+    function closeMobileMap() {
+      document.body.classList.remove('map-open');
+    }
 </body>
 </html>
