@@ -8,43 +8,43 @@
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <style>
     :root {
-      --bg: #faf7f2;
+      --bg: #f6f7f8;
       --panel: #ffffff;
-      --ink: #2a241d;
-      --muted: #8a7e6f;
-      --accent: #a8743a;
-      --accent-soft: #f4ead8;
-      --local-bg: #fdf6e8;
-      --local-border: #d9a85a;
-      --shadow: 0 1px 3px rgba(40,30,15,0.06), 0 4px 12px rgba(40,30,15,0.05);
-      --shadow-hover: 0 4px 10px rgba(40,30,15,0.10), 0 10px 28px rgba(40,30,15,0.10);
+      --ink: #1f2933;
+      --muted: #6b7280;
+      --accent: #3a5c3b;
+      --accent-soft: #e9ece9;
+      --local-bg: #f1f5f1;
+      --local-border: #3a5c3b;
+      --shadow: 0 1px 3px rgba(20,30,40,0.05), 0 4px 12px rgba(20,30,40,0.05);
+      --shadow-hover: 0 4px 10px rgba(20,30,40,0.09), 0 10px 28px rgba(20,30,40,0.10);
       --radius: 10px;
-      --new-bg: #2c6e2c;
-      --highlight: #d9531e;
+      --new-bg: #3a5c3b;
+      --highlight: #4b6b8a;
     }
     @media (prefers-color-scheme: dark) {
       :root:not([data-theme="light"]) {
-        --bg: #14110d;
-        --panel: #1f1b15;
-        --ink: #ede4d2;
-        --muted: #8a7e6f;
-        --accent: #d9a85a;
-        --accent-soft: #2a2218;
-        --local-bg: #2a2218;
-        --local-border: #d9a85a;
+        --bg: #15191c;
+        --panel: #1d2226;
+        --ink: #e6e9ec;
+        --muted: #8b95a1;
+        --accent: #7fa380;
+        --accent-soft: #262d31;
+        --local-bg: #20292340;
+        --local-border: #7fa380;
         --shadow: 0 1px 3px rgba(0,0,0,0.4), 0 4px 12px rgba(0,0,0,0.3);
         --shadow-hover: 0 4px 10px rgba(0,0,0,0.5), 0 10px 28px rgba(0,0,0,0.4);
       }
     }
     :root[data-theme="dark"] {
-      --bg: #14110d;
-      --panel: #1f1b15;
-      --ink: #ede4d2;
-      --muted: #8a7e6f;
-      --accent: #d9a85a;
-      --accent-soft: #2a2218;
-      --local-bg: #2a2218;
-      --local-border: #d9a85a;
+      --bg: #15191c;
+      --panel: #1d2226;
+      --ink: #e6e9ec;
+      --muted: #8b95a1;
+      --accent: #7fa380;
+      --accent-soft: #262d31;
+      --local-bg: #20292340;
+      --local-border: #7fa380;
       --shadow: 0 1px 3px rgba(0,0,0,0.4), 0 4px 12px rgba(0,0,0,0.3);
       --shadow-hover: 0 4px 10px rgba(0,0,0,0.5), 0 10px 28px rgba(0,0,0,0.4);
     }
@@ -139,10 +139,10 @@
       transition: 0.15s;
     }
     nav.jump a:hover { background: var(--accent); color: var(--panel); }
-    nav.jump .today-pill { background: #d9531e; color: #fff; }
-    nav.jump .today-pill:hover { background: #b84319; }
+    nav.jump .today-pill { background: var(--highlight); color: #fff; }
+    nav.jump .today-pill:hover { background: #3d5a75; }
     nav.jump .new-pill { background: var(--new-bg); color: #fff; }
-    nav.jump .new-pill:hover { background: #1f5a1f; }
+    nav.jump .new-pill:hover { background: #2c4a2d; }
     .new-badge {
       position: absolute; top: 10px; left: 10px;
       background: var(--new-bg); color: #fff;
@@ -205,8 +205,8 @@
       margin: 36px 0 0;
     }
     #cards-area section.today-section {
-      background: linear-gradient(180deg, rgba(217, 83, 30, 0.08), rgba(217, 83, 30, 0.02));
-      border-left: 4px solid #d9531e;
+      background: linear-gradient(180deg, rgba(75, 107, 138, 0.08), rgba(75, 107, 138, 0.02));
+      border-left: 4px solid var(--highlight);
       padding: 28px 24px 32px;
       border-radius: var(--radius);
       margin: 36px 0 0;
