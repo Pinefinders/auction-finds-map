@@ -1176,7 +1176,7 @@ def main():
     updated_seen = (seen | set(all_lots.keys()))
     # Keep the file from growing unboundedly: prefer recent IDs
     if len(updated_seen) > 5000:
-        updated_seen = set(list(all_lots.keys())) | set(list(seen))[: 5000 - len(all_lots)]
+        updated_seen = set(all_lots.keys()) | set(list(seen)[: 5000 - len(all_lots)])
     save_seen(updated_seen)
     log.info(f"Updated seen_lots.json ({len(updated_seen)} ids)")
 
